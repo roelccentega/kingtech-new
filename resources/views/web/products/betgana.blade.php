@@ -13,9 +13,9 @@
                             <div class="group-btn g-30">
                                 <a href="{{url('/contacto')}}" class="default-btn"><span>Contactarnos</span></a>
                                 <ul class="banner__social d-flex g-20">
-                                    <li><a href="#"><i class="icofont-instagram"></i></a></li>
-                                    <li><a href="#"><i class="icofont-twitter"></i></a></li>
-                                    <li><a href="#"><i class="icofont-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/betgana.official/" target="_blank"><i class="icofont-instagram"></i></a></li>
+                                    <li><a href="https://www.tiktok.com/@betgana.oficial" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+                                    <li><a href="https://www.facebook.com/betganaperu/" target="_blank"><i class="icofont-facebook"></i></a></li>
                                 </ul>
                             </div>
                         </div>

@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/lightcase.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/style.css?v=4')}}">
 
-    <title>Sportbetperú</title>
+    <title>Kingtecch</title>
     <style>
     .breadcrumb-item+.breadcrumb-item::before {
     float: left;
@@ -71,7 +71,7 @@
   <div class="form-wpp">
 
     <div class="head-wpp">
-      <img src="/assets/TINBBET.jpg" loading="lazy" decoding="aync" width="50" height="50" class=" img-responsive wp-image-228" srcset="" sizes="(max-width: 50px) 100vw, 50px" alt="Imagem perfil">
+      <img src="{{asset('/assets/TINBBET.jpg')}}" loading="lazy" decoding="aync" width="50" height="50" class=" img-responsive wp-image-228" srcset="" sizes="(max-width: 50px) 100vw, 50px" alt="Imagem perfil">
       <h3>Atención al Cliente</h3>
       <i class="fas fa-times" id="close-bt"></i>
     </div>

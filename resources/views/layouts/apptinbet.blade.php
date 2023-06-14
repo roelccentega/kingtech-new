@@ -102,18 +102,15 @@
                    
                 </ul>
                 <ul class="social justify-content-center">
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-facebook"></i></a>
+                    <li class="social__item"><a href="https://www.facebook.com/tinbet.oficial" class="social__link"><i class="fa-brands fa-facebook"></i></a>
                     </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
+            
+                    <li class="social__item"><a href="https://www.youtube.com/@tinbet.oficial" class="social__link"><i class="fa-brands fa-youtube"></i></a>
                     </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-youtube"></i></a>
+                    <li class="social__item"><a href="https://www.instagram.com/tinbet.pe.oficial/" class="social__link"><i class="fa-brands fa-instagram"></i></a>
                     </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-tiktok"></i></a>
-                    </li>
-                       <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-pinterest"></i></a>
-                    </li>
+                    <li class="social__item"><a href="https://www.tiktok.com/@tinbet.oficial" class="social__link"><i class="fa-brands fa-tiktok"></i></a>
+                  
                 </ul>
             </div>
             <div class="footer__copyright">

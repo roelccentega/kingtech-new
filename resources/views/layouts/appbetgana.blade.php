@@ -97,13 +97,12 @@
                    
                 </ul>
                 <ul class="social justify-content-center">
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-dribbble"></i></a>
+                    <li class="social__item"><a href="https://www.facebook.com/betganaperu/" target="_blank" class="social__link"><i class="fa-brands fa-facebook"></i></a>
                     </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-linkedin"></i></a>
+                  
+                    <li class="social__item"><a href="https://www.instagram.com/betgana.official/" target="_blank" class="social__link"><i class="fa-brands fa-instagram"></i></a>
                     </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-behance"></i></a>
+                    <li class="social__item"><a href="https://www.tiktok.com/@betgana.oficial" target="_blank" class="social__link"><i class="fa-brands fa-tiktok"></i></a>
                     </li>
                 </ul>
             </div>

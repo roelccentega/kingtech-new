@@ -16,11 +16,7 @@
                              <p>Nuestra plataforma esta diseñada para que puedas usarlo desde cualquier dispositivo, podrás hacer tus pronósticos, descargar la programación de carreras ,ver las jornadas, ver los resultados de todas las carreras y disfrutar de los videos en vivo haciendo tu apuesta..</p>
                             <div class="group-btn g-30">
                                 <a href="{{url('/contacto')}}" class="default-btn"><span>Contactarnos</span></a>
-                                <ul class="banner__social d-flex g-20">
-                                    <li><a href="#"><i class="icofont-instagram"></i></a></li>
-                                    <li><a href="#"><i class="icofont-twitter"></i></a></li>
-                                    <li><a href="#"><i class="icofont-facebook"></i></a></li>
-                                </ul>
+                              
                             </div>
                         </div>
                     </div>

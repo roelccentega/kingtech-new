@@ -19,10 +19,10 @@
                             <div class="group-btn g-30">
                                 <a href="https://wa.me/51913069000" target="_blank" class="default-btn"><span>Escribir vía WhatsApp</span></a>
                                 <ul class="banner__social d-flex g-20">
-                                    <li><a href="#"><i class="icofont-facebook"></i></a></li>
-                                    <li><a href="#"><i class="icofont-instagram"></i></a></li>
-                                    <li><a href="#"><i class="icofont-twitter"></i></a></li>
-                                    <li><a href="#"><i class="icofont-youtube"></i></a></li>
+                                    <li><a href="https://www.facebook.com/tinbet.oficial" target="_blank"><i class="icofont-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/tinbet.pe.oficial/" target="_blank"><i class="icofont-instagram"></i></a></li>
+                                    <li><a href="https://www.youtube.com/@tinbet.oficial" target="_blank"><i class="icofont-youtube"></i></a></li>
+                                    <li><a href="https://www.tiktok.com/@tinbet.oficial" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
                                     
                                 </ul>
                             </div>

@@ -94,15 +94,7 @@
                     </li>
                     
                 </ul>
-                <ul class="social justify-content-center">
-                   
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-linkedin"></i></a>
-                    </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                    <li class="social__item"><a href="#" class="social__link"><i class="fa-brands fa-behance"></i></a>
-                    </li>
-                </ul>
+               
             </div>
             <div class="footer__copyright">
                 <p class="mb-0">Creado por Kingtech</p>
