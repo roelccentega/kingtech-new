@@ -255,7 +255,7 @@
                 <div class="row g-5 flex-lg-row-reverse">
                     <div class="col-lg-4">
                         <div class="consult__thumb text-center">
-                            <img src="assets/images/banner/01.png" alt="Doctor Image">
+                            <img src="assets/betgana/BETGAN-D.png" alt="Doctor Image">
                         </div>
                     </div>
                     <div class="col-lg-8">

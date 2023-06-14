@@ -18,7 +18,7 @@
     @media(max-width: 768px)
     {
         .images-bg{
-            background-image: url({{asset('assets/banner-kt-moVil.JPG')}});
+            background-image: url({{asset('assets/banner-kt-moVil.jpg')}});
             display: block;    
     }
     .images-2-movil{
@@ -68,8 +68,8 @@
                                         <h5 class="text-c">#1 en perú</h5>
                                         <h2 style="color:#f4f4f4">Empresa líder de Software para Casa de Apuestas Deportivas en Perú</h2>
                                         <div class="lab_btn_group">
-                                            <a href="#" class="lab-btn">Explora Más <i class="fa-solid fa-arrow-right"></i></a>
-                                            <a href="#" class="lab-btn bg-title">Ponerse en Contacto <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="{{url('/nosotros')}}" class="lab-btn">Explora Más <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="{{url('/contacto')}}" class="lab-btn bg-title">Ponerse en Contacto <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>

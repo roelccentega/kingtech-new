@@ -22,7 +22,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="banner__thumb wow animate__animated animate__slideInRight">
-                            <img src="{{asset('assets/hipica/hipica-caballos.png')}}" alt="Author Image">
+                            <img src="{{asset('assets/hipica/CABALLOS.png')}}" alt="Author Image">
                         </div>
                     </div>
                 </div>
