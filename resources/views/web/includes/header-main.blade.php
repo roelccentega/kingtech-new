@@ -7,7 +7,7 @@
                         <div class="info">
                             <ul>
                                 <li>
-                                    <img src="assets/images/header/icon/01.png" alt="rajib raj" >
+                                    <img src="{{asset('assets/images/header/icon/01.png')}}" alt="rajib raj" >
                                     <span>info@kingtech.com</span>
                                 </li>
                                 <li>

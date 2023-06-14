@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Other css -->
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <link rel="stylesheet" href="assets/css/icofont.min.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.css">
-    <link rel="stylesheet" href="assets/css/lightcase.css">
-    <link rel="stylesheet" href="assets/css/style.css?v=4">
+    <link rel="stylesheet" href="{{asset('assets/css/animate.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/all.min.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/icofont.min.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/swiper.min.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/odometer.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/lightcase.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/style.css?v=4')}}">
 
     <title>Sportbetperú</title>
     <style>
@@ -48,7 +48,7 @@
         <div class="search__area">
             <form action="#">
                 <input type="text" name="s" placeholder="Sarch Here...">
-                <button type="submit"><img src="assets/images/header/icon/04.png" alt="rajib raj"></button>
+                <button type="submit"><img src="{{asset('assets/images/header/icon/04.png')}}" alt="rajib raj"></button>
             </form>
         </div>
     </div>
@@ -65,7 +65,7 @@
   <button id="wpp-link" class="wpp-form wpp-link" data-href="https://api.whatsapp.com/send?text=Hola!&amp;phone=51965059553" data-wpp="51965059553">
 
     <span>Atención al Cliente</span>
-    <img src="/assets/whatsapp.png" class="whatsapp-images">
+    <img src="{{asset('/assets/whatsapp.png')}}" class="whatsapp-images">
   </button>
 
   <div class="form-wpp">
@@ -121,21 +121,21 @@
 </div>
 
     <!-- All Scripts -->
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/swiper.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/circularProgressBar.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/viewport.jquery.js"></script>
-    <script src="assets/js/odometer.min.js"></script>
-    <script src="assets/js/lightcase.js"></script>
-    <script src="assets/js/functions.js"></script>
-    <script src="assets/js/form-whatsapp.js"></script>
-    <script src="assets/js/form-whatsapp2.js"></script>
-    <script src="assets/js/formWahtsapp-Contact.js"></script>
+    <script src="{{asset('assets/js/jquery.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{asset('assets/js/waypoints.min.js')}}"></script>
+    <script src="{{asset('assets/js/swiper.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.counterup.min.js')}}"></script>
+    <script src="{{asset('assets/js/circularProgressBar.min.js')}}"></script>
+    <script src="{{asset('assets/js/wow.min.js')}}"></script>
+    <script src="{{asset('assets/js/isotope.pkgd.min.js')}}"></script>
+    <script src="{{asset('assets/js/viewport.jquery.js')}}"></script>
+    <script src="{{asset('assets/js/odometer.min.js')}}"></script>
+    <script src="{{asset('assets/js/lightcase.js')}}"></script>
+    <script src="{{asset('assets/js/functions.js')}}"></script>
+    <script src="{{asset('assets/js/form-whatsapp.js')}}"></script>
+    <script src="{{asset('assets/js/form-whatsapp2.js')}}"></script>
+    <script src="{{asset('assets/js/formWahtsapp-Contact.js')}}"></script>
 
     <script type="text/javascript">
 
