@@ -279,7 +279,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="counter__item">
                             <div class="counter__count">
-                                <h2 class="odometer" data-odometer-final="100 000">0</h2>
+                                <h2 class="odometer" data-odometer-final="10000">0</h2>
                             </div>
                             <div class="counter__title">
                                 <h6><b>Clientes Felices</b></h6>
@@ -289,7 +289,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="counter__item">
                             <div class="counter__count">
-                                <h2 class="odometer" data-odometer-final="1249">0</h2>
+                                <h2 class="odometer" data-odometer-final="+1500">0</h2>
                             </div>
                             <div class="counter__title">
                                 <h6><b>Tiendas</b></h6>
@@ -312,7 +312,7 @@
                                 <h2 class="odometer" data-odometer-final="59">0</h2>
                             </div>
                             <div class="counter__title">
-                                <h6><b>Premios</b></h6>
+                                <h6><b>Campañas Exitosa</b></h6>
                             </div>
                         </div>
                     </div>
@@ -343,7 +343,7 @@
                                     <img src="assets/render1.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5><a href="#">Vista Isométrica 1</a></h5>
+                                    <h5>Vista Isométrica 1</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -357,7 +357,7 @@
                                     <img src="assets/render2.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5><a href="#">Vista Isométrica 2</a></h5>
+                                    <h5>Vista Isométrica 2</h5>
                                     <span>Diseños Interiores</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -371,7 +371,7 @@
                                     <img src="assets/render3.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5><a href="#">Vista Interior de Zona de Apuestas</a></h5>
+                                    <h5>Vista Interior de Zona de Apuestas</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -385,7 +385,7 @@
                                     <img src="assets/render4.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5><a href="#">Vista Interior de Zona de Apuestas 2</a></h5>
+                                    <h5>Vista Interior de Zona de Apuestas 2</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -399,7 +399,7 @@
                                     <img src="assets/render5.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5><a href="#">Vista Interior de Caja</a></h5>
+                                    <h5>Vista Interior de Caja</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -413,7 +413,7 @@
                                     <img src="assets/render6.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5><a href="#">Vista Interior de Espectadores</a></h5>
+                                    <h5>Vista Interior de Espectadores</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="assets/render6.jpg" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>

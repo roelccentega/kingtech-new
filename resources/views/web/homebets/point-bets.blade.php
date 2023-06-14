@@ -59,23 +59,10 @@ NEGOCIO</h5>
                         <div class="row g-4">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="assets/images/about/01.jpg" alt="rajib raj">
+                                    <img src="assets/punto-de-apuesta.png" alt="rajib raj">
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
-                                <div class="about__img about__img--thumb">
-                                    <img src="assets/images/about/02.jpg" alt="rajib raj">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
-                                <div class="about__img about__img--thumb">
-                                    <img src="assets/images/about/03.jpg" alt="rajib raj">
-                                    <div class="about__img--content">
-                                        <img src="assets/images/about/icon/01.png" alt="">
-                                        <h5><span>24+ Years</span> of Experiences</h5>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -128,17 +115,18 @@ NEGOCIO</h5>
                         <div class="row g-4" style="max-width: 90%">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="assets/images/about/08.jpg" alt="rajib raj">
+                                   <img src="assets/requerimientos.png" alt="rajib raj">
                                 </div>
                             </div>
                             <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="assets/images/about/09.jpg" alt="rajib raj">
+                                 
+                                    <img src="assets/requerimientos1.png" alt="rajib raj">
                                 </div>
                             </div>
                             <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="assets/images/about/10.jpg" alt="rajib raj">
+                                     <img src="assets/requerimientos2.png" alt="rajib raj">
                                 </div>
                             </div>
                         </div>

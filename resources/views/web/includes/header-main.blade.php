@@ -86,11 +86,14 @@
                             </ul>
                             <div class="search_cart d-none d-xl-block">
                                 <ul>
-                                    <li class="search_icon" style="width: 88px">
-                                        <img src="assets/llamada.png" alt="rajib raj">
+                                    <li class="" style="width: 88px">
+                                        <a href="tel:51913069000">
+                                            <img src="assets/llamada.png" alt="Llamada">    
+                                        </a>
+                                        
                                     </li>
                                     <li class="cart_icon" style="width: 88px">
-                                        <a href="cart.html"><img src="assets/facebook.png" alt="rajib raj" width="120px"></a>
+                                        <a href="https://www.facebook.com/sportbetperuoficial" target="_blank"><img src="assets/facebook.png" alt="rajib raj" width="120px"></a>
                                     </li>
                                 </ul>
                             </div>
