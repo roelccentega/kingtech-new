@@ -248,7 +248,7 @@ NEGOCIO</h5>
             <div class="row justify-content-center g-4">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="wwd__thumb">
-                        <img src="assets/images/wwd/01.png" alt="rajib raj">
+                        <img src="assets/para-que-invertir.png" alt="rajib raj">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
@@ -321,7 +321,7 @@ Emprende tu negocio propio</span>
                                     </h6>
                                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="faqFive" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
-                                            <p>Te brindamos las herramientas que necesites para el crecimiento de tu negocio, Diseño Grafico, Logistica, Soporte Tecnico, Asesoria Comercial.</p>
+                                            <p>Te brindamos las herramientas que necesites para el crecimiento de tu negocio, Diseño Grafico, Logística, Soporte Tecnico y Asesoría Comercial.</p>
                                         </div>
                                     </div>
                                 </div>
