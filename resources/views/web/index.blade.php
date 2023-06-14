@@ -343,7 +343,7 @@
                                     <img src="assets/render1.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5>Vista Isométrica 1</h5>
+                                    <h5 style="color: #009636">Vista Isométrica 1</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -357,7 +357,7 @@
                                     <img src="assets/render2.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5>Vista Isométrica 2</h5>
+                                    <h5 style="color: #009636">Vista Isométrica 2</h5>
                                     <span>Diseños Interiores</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -371,7 +371,7 @@
                                     <img src="assets/render3.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5>Vista Interior de Zona de Apuestas</h5>
+                                    <h5 style="color: #009636">Vista Interior de Zona de Apuestas</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -385,7 +385,7 @@
                                     <img src="assets/render4.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5>Vista Interior de Zona de Apuestas 2</h5>
+                                    <h5 style="color: #009636">Vista Interior de Zona de Apuestas 2</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -399,7 +399,7 @@
                                     <img src="assets/render5.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5>Vista Interior de Caja</h5>
+                                    <h5 style="color: #009636">Vista Interior de Caja</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="#" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>
@@ -413,7 +413,7 @@
                                     <img src="assets/render6.jpg" alt="rajib raj">
                                 </div>
                                 <div class="project__content">
-                                    <h5>Vista Interior de Espectadores</h5>
+                                    <h5 style="color: #009636">Vista Interior de Espectadores</h5>
                                     <span>Render Interior</span>
                                     <!-- <a href="assets/render6.jpg" class="project__icon">
                                         <i class="fa-solid fa-eye"></i>

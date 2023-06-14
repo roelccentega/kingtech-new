@@ -1540,7 +1540,7 @@ input, textarea, select {
 .project__content::after {
   bottom: 0;
   left: 0;
-  border-bottom: 120px solid #34BD6B;
+  border-bottom: 120px solid #009636;
   border-right: 120px solid transparent;
 }
 .project__icon {

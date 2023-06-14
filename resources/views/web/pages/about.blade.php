@@ -100,7 +100,7 @@
                     <div class="col-lg-4 col-sm-6 col-12">
                         <div class="approach__item text-center">
                             <div class="approach__icon">
-                                <img src="assets/images/approach/icon/01.png" alt="rajib raj">
+                                <img src="assets/images/nos-reunimos-t.png" alt="rajib raj">
                             </div>
                             <div class="approach__content">
                                 <span class="step">Proceso: 1</span>
@@ -113,7 +113,7 @@
                     <div class="col-lg-4 col-sm-6 col-12">
                         <div class="approach__item text-center">
                             <div class="approach__icon">
-                                <img src="assets/images/approach/icon/02.png" alt="rajib raj">
+                                <img src="assets/te-impulsamos-t.png" alt="rajib raj">
                             </div>
                             <div class="approach__content">
                                 <span class="step">Proceso: 2</span>
@@ -126,7 +126,7 @@
                     <div class="col-lg-4 col-sm-6 col-12">
                         <div class="approach__item text-center">
                             <div class="approach__icon">
-                                <img src="assets/images/approach/icon/03.png" alt="rajib raj">
+                                <img src="assets/crecemos-t.png" alt="rajib raj">
                             </div>
                             <div class="approach__content">
                                 <span class="step">Proceso: 3</span>
