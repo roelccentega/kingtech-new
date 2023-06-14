@@ -18,7 +18,7 @@
     @media(max-width: 768px)
     {
         .images-bg{
-            background-image: url({{asset('assets/banner-kt-moVil.jpg')}});
+            background-image: url({{asset('assets/banner-kt-movil.jpg')}});
             display: block;    
     }
     .images-2-movil{
