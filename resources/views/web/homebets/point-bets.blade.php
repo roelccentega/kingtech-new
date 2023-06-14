@@ -40,7 +40,7 @@
             <div class="row justify-content-center align-items-center g-4">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="about__content">
-                        <h5>SOMOS UNA NUEVA OPCION PARA POTENCIAR TU
+                        <h5>SOMOS UNA NUEVA OPCIÓN PARA POTENCIAR TU
 NEGOCIO</h5>
                         <h2>Puntos de Apuestas</h2>
                         
@@ -49,7 +49,7 @@ NEGOCIO</h5>
                         <p>No pierdas la oportunidad de incrementar tus ganancias, con nuestra apoyo y guía lograrás emprender en el mercado de apuestas y garantizar tu éxito.</p>
                         
                         <div class="lab_btn_group">
-                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn">Contactarnos vía WhatsApp<i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn">Contáctanos vía WhatsApp<i class="fa-solid fa-arrow-right"></i></a>
                        
                         </div>
                     </div>
@@ -59,7 +59,7 @@ NEGOCIO</h5>
                         <div class="row g-4">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="assets/punto-de-apuesta.png" alt="rajib raj">
+                                    <img src="assets/puntos2.png" alt="rajib raj">
                                 </div>
                             </div>
                             
@@ -256,7 +256,7 @@ NEGOCIO</h5>
                         <div class="section__header wow fadeInUp" data-wow-delay=".5s">
                             <h5>Casa de apuestas deportivas</h5>
                             <h2>Razones para invertir</h2>
-                            <p class="ms-0">Fortune 500 enterprises and established brands trust our software development.</p>
+                        
                         </div>
                         <div class="section__wrapper wow fadeInUp" data-wow-delay=".5s">
                          <div class="accordion accordion-flush" id="faqAccordion">

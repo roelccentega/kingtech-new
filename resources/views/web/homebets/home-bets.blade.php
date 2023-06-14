@@ -46,10 +46,10 @@
 
 						<p>Aprovecha ahora tu oportunidad de ingresar profesionalmente en este mercado en crecimiento. SBP es el socio ideal para usted con su experiencia, tecnología y trayectoria.</p>
 
-						<p>Si estás buscando un proveedor de software de Igaming y estas considerando invertir en los negocios de apuestas, no dudes en contactarnos, será un gusto poder ayudarte.</p>
+						<p>Si estás buscando un proveedor de software de Igaming y estás considerando invertir en los negocios de apuestas, no dudes en contactarnos, será un gusto poder ayudarte.</p>
                         
                         <div class="lab_btn_group">
-                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn">Contactarnos vía WhatsApp<i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn">Contáctanos vía WhatsApp<i class="fa-solid fa-arrow-right"></i></a>
                        
                         </div>
                     </div>
@@ -356,7 +356,7 @@ Emprende tu negocio propio</span>
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
                 <!-- <h5>Our team mumbers</h5> -->
                 <h2>Productos</h2>
-                <p>Contamos con una amplia variedad de software de apuestas que le permitirán brindar una experiencia única a sus clientes en su casa de apuesta, incorporando Apuestas Deportivas, Lotería, Juegos Virtuales, Casino.</p>
+                <p>Contamos con una amplia variedad de software de apuestas que le permitirán brindar una experiencia única a sus clientes en su casa de apuesta, incorporando Apuestas Deportivas, Lotería, Juegos Virtuales y Casino.</p>
             </div>
             <div class="section__wrapper">
                 <div class="row justify-content-center align-items-center g-4">

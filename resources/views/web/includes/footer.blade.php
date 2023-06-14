@@ -108,11 +108,11 @@
                                 <h5>Enlaces Útiles</h5>
                             </div>
                             <ul>
-                                <li><a href="contact.html"><i class="icofont-star-alt-1"></i>Preguntas Frecuentes</a></li>
-                                <li><a href="contact.html"><i class="icofont-star-alt-1"></i>Política de privacidad</a></li>
+                                <li><a href="#"><i class="icofont-star-alt-1"></i>Preguntas Frecuentes</a></li>
+                                <li><a href="#"><i class="icofont-star-alt-1"></i>Política de privacidad</a></li>
                                 <li><a href="#"><i class="icofont-star-alt-1"></i>Sitemap</a></li>
                                 <li><a href="#"><i class="icofont-star-alt-1"></i>Ayuda</a></li>
-                                <li><a href=""><i class="icofont-star-alt-1"></i>Tiendas de Apuestas</a></li>
+                                <li><a href=#><i class="icofont-star-alt-1"></i>Tiendas de Apuestas</a></li>
                                 <li><a href="{{url('/terminos-y-condiciones')}}"><i class="icofont-star-alt-1"></i>Términos y Condiciones</a></li>
                   
                                 

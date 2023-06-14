@@ -214,7 +214,7 @@
                                     </div>
                                     <div class="skill__right--content">
                                         <h5> Constante expansión y aceptación de la comunidad</h5>
-                                        <p>Más de 400 casas y puntos de apuestas Betgana en todo el Perú y gran cantidad de jugadores que eligen la experiencia de jugar con nuestra plataforma.</p>
+                                        <p>Más de 500 casas y puntos de apuestas Betgana en todo el Perú y gran cantidad de jugadores que eligen la experiencia de jugar con nuestra plataforma.</p>
                                     </div>
                                 </li>
                                
@@ -309,7 +309,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="section__header mb-5">
                             <span class="bg-white">Contacto</span>
-                            <h2>Ponerse En Contacto</h2>
+                            <h2>Ponte en Contacto con Nosotros</h2>
                         </div>
                         <ul class="contact__info">
                             <li class="contact__info-item contact__info-item--transparent">

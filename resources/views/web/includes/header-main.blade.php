@@ -97,7 +97,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn">Escribir por WhatsApp <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn"> WhatsApp<i class="fa-brands fa-whatsapp"></i></a>
                         </div>
                         <div class="header__bararea">
                             

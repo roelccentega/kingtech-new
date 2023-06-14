@@ -15,9 +15,9 @@
                         <div class="banner__content wow animate__animated animate__slideInLeft">
                             <span>Software De Apuestas Deportivas</span>
                             <h2><span>Tinbet</span> - Apuestas Deportivas</h2>
-                            <p>El Programa De Apuestas Deportivas Con La Interfaz Más Atractiva Y Moderna, Fácil De Usar Y Con Una Gran Variedad De Deportes Totalmente En Vivo Hasta El Último Segundo.</p>
+                            <p>El programa de apuestas deportivas con la interfaz más atractiva y moderna, fácil de usar y con una gran variedad de deportes totalmente en vivo hasta el último segundo.</p>
                             <div class="group-btn g-30">
-                                <a href="https://wa.me/51913069000" target="_blank" class="default-btn"><span>Escribir vía WhatsApp</span></a>
+                                <a href="https://wa.me/51913069000" target="_blank" class="default-btn"><span>Escríbenos Vía WhatsApp</span></a>
                                 <ul class="banner__social d-flex g-20">
                                     <li><a href="https://www.facebook.com/tinbet.oficial" target="_blank"><i class="icofont-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/tinbet.pe.oficial/" target="_blank"><i class="icofont-instagram"></i></a></li>
@@ -177,7 +177,7 @@
                                     </div>
                                     <div class="skill__right--content">
                                         <h5>Constante Expansión Y Aceptación De La Comunidad</h5>
-                                        <p>Más de 400 casas y puntos de apuestas Tinbet en todo el Perú y gran cantidad de jugadores que eligen la experiencia de jugar con nuestra plataforma.</p>
+                                        <p>Más de 1500 casas y puntos de apuestas Tinbet en todo el Perú y gran cantidad de jugadores que eligen la experiencia de jugar con nuestra plataforma.</p>
                                     </div>
                                 </li>
                                 
@@ -246,7 +246,7 @@
         <div class="container">
             <div class="section__header mb-5 text-center">
                 <!-- <span>Contact</span> -->
-                <h5 style="color: #1e8b40">    PONERSE EN CONTACTO!</h5>
+                <h5 style="color: #1e8b40">  ¡PONTE EN CONTACTO!</h5>
                 <h2>¿Tiene Alguna Pregunta? <br> No Dude En Ponerse En Contacto Con Nosotros.</h2>
             </div>
             <div class="contact__wrapper wow animate__animated animate__fadeInUp">
