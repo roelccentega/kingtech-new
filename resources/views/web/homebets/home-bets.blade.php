@@ -2,7 +2,7 @@
 @section('content')
 <style type="">
     .bg-breadcrumb{
-        background-image: url(assets/inicio-header.png);
+        background-image: url(assets/headder.png);
         display: block;
     }
      
