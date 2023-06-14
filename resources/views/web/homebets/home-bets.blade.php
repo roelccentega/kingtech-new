@@ -59,7 +59,7 @@
                         <div class="row g-4">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="{{asset('assets/kingtch.png')}}" alt="rajib raj">
+                                    <img src="{{asset('assets/kingtch-d.png')}}" alt="rajib raj">
                                 </div>
                             </div>
                             <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">

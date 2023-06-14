@@ -2694,7 +2694,7 @@ input, textarea, select {
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 .header__bottom .area .menu ul li ul li a:hover, .header__bottom .area .menu ul li ul li a.active {
-  background-color: #34BD6B;
+  background-color: #009636;
   color: #fff;
 }
 .header__bottom .area .menu ul li ul li a:hover::after, .header__bottom .area .menu ul li ul li a:hover::before, .header__bottom .area .menu ul li ul li a.active::after, .header__bottom .area .menu ul li ul li a.active::before {
