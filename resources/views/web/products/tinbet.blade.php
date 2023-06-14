@@ -310,7 +310,7 @@
                          
                         <br>
                             </div>
-                            <button class="default-btn" id="submit" type="submit"><span>Mensaje</span> </button>
+                            <button class="default-btn" id="submit" type="submit"><span>Enviar</span> </button>
                         </form>
                     </div>
                 </div>

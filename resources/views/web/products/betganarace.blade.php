@@ -15,7 +15,7 @@
                             <h2><span style="color: #aed51f">Bet Gana Race</span> <br> Lo mejor en eventos Hípicos</h2>
                              <p>Nuestra plataforma esta diseñada para que puedas usarlo desde cualquier dispositivo, podrás hacer tus pronósticos, descargar la programación de carreras ,ver las jornadas, ver los resultados de todas las carreras y disfrutar de los videos en vivo haciendo tu apuesta..</p>
                             <div class="group-btn g-30">
-                                <a href="{{url('/contacto')}}" class="default-btn"><span>Contactarnos</span></a>
+                                <a href="{{url('/contacto')}}" class="default-btn"><span>Contáctanos</span></a>
                               
                             </div>
                         </div>
@@ -40,7 +40,7 @@
                 <div class="col-lg-6">
                     <div class="service__content">
                         <div class="section__header mb-5">
-                            <span class="bg-white">Hipica</span>
+                            <span class="bg-white">Hípica</span>
                             <h2>LOS MEJORES EN APUESTA HÍPICA</h2>
                             <p>Nuestra plataforma esta diseñada para que puedas usarlo desde cualquier dispositivo, podrás hacer tus pronósticos, descargar la programación de carreras ,ver las jornadas, ver los resultados de todas las carreras y disfrutar de los videos en vivo haciendo tu apuesta.</p>
                             <a href="assets/cv.pdf" class="default-btn mt-30" download> <span>Descargar Brochure</span>
@@ -76,7 +76,7 @@
                                
                                 <h2>BET GANA RACE TE OFRECE SEGURIDAD</h2>
                                 <p>Tus apuestas son importantes, por eso nos da gusto que lo puedas hacer de la forma más comoda y segura tal y como llevamos haciendo desde antes. Te permitimos hacer depósitos y retiros de forma fácil y dispones de un equipo profesional de asistencia al cliente que te ayudará con cualquier duda respecto a tu cuenta 24/7. Descubre el apasionante mundo de las carreras en vivo con los mejores del mercado y la mejor valorada por sus usuarios.</p>
-                               <a href="https://wa.me/51983446479" target="_blank" class="default-btn mt-30" download> <span>Escribir vía WhatsApp</span>
+                               <a href="https://wa.me/51983446479" target="_blank" class="default-btn mt-30" download> <span>Escríbenos vía WhatsApp</span>
                                 </a>
                                 
                             </div>
@@ -97,7 +97,7 @@
             <div class="section__header mb-5 text-center">
                 <span class="bg-white">Contacto</span>
                 <h2>¿Tiene Alguna Pregunta?
-No Dude En Ponerse En Contacto Con Nosotros.</h2>
+No Dude En Ponerte En Contacto Con Nosotros.</h2>
             </div>
             <div class="contact__wrapper wow animate__animated animate__fadeInUp">
                 <div class="row g-5">
