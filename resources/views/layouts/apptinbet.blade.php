@@ -82,7 +82,7 @@
     <footer class="footer">
         <div class="container">
             <div class="footer__content">
-                <a class="footer__logo" href="index.html"><img src="assets/tinbet-logo1.png" alt="Tinbet" width="180px"></a>
+                <a class="footer__logo" href="https://www.tinbet.pe"><img src="assets/tinbet-logo1.png" alt="Tinbet" width="180px"></a>
                 <ul class="footer__menu mb-4">
                     <li class="footer__menu-item">
                         <a href="{{url('/')}}" class="footer__menu-link">Inicio</a>

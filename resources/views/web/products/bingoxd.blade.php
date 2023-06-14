@@ -10,11 +10,11 @@
                         <div class="info">
                             <ul>
                                 <li>
-                                    <img src="assets/images/header/icon/01.png" alt="rajib raj" >
+                                    <img src="assets/images/header/icon/01.png" alt="" >
                                     <span> info@kingtech.pe</span>
                                 </li>
                                 <li>
-                                    <img src="assets/images/header/icon/02.png" alt="rajib raj" >
+                                    <img src="assets/images/header/icon/02.png" alt="" >
                                     <span> Lunes-Viernes : 08:00 pm - 22:00 pm</span>
                                 </li>
                             </ul>
@@ -24,7 +24,7 @@
                         <div class="social text-xl-end">
                             <ul>
                                 <li>
-                                    <img src="assets/images/header/icon/03.png" alt="rajib raj" >
+                                    <img src="assets/images/header/icon/03.png" alt="" >
                                     <span>Av. Gral. Antonio Alvarez de Arenales 2523, Lince 15046</span>
                                 </li>
                             </ul>
@@ -87,10 +87,10 @@
                             <div class="search_cart d-none d-xl-block">
                                 <ul>
                                     <li class="search_icon" style="width: 88px">
-                                        <img src="assets/llamada.png" alt="rajib raj">
+                                        <img src="assets/llamada.png" alt="">
                                     </li>
                                     <li class="cart_icon" style="width: 88px">
-                                        <a href="cart.html"><img src="assets/facebook.png" alt="rajib raj" width="120px"></a>
+                                        <a href="cart.html"><img src="assets/facebook.png" alt="" width="120px"></a>
                                     </li>
                                 </ul>
                             </div>
@@ -166,7 +166,7 @@
                     </div>
                     <div class="col-lg-6 col-12">
                         <div class="banner__thumb">
-                            <img src="assets/images/banner/01.png" alt="rajib raj" class=" wow slideInUp" data-wow-delay="1s">
+                            <img src="assets/images/banner/01.png" alt="" class=" wow slideInUp" data-wow-delay="1s">
                            
                         </div>
                     </div>
@@ -185,7 +185,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item text-center">
                             <div class="feature__thumb">
-                                <img src="assets/RESULTADOs-VIVO.png" alt="rajib raj" width="100px">
+                                <img src="assets/RESULTADOs-VIVO.png" alt="" width="100px">
                             </div>
                             <div class="feature__content">
                                 <h5>Resultados En Vivo</h5>
@@ -196,7 +196,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item text-center">
                             <div class="feature__thumb">
-                                <img src="assets/gestion-de-riesgos.png" alt="rajib raj" width="100px">
+                                <img src="assets/gestion-de-riesgos.png" alt="" width="100px">
                             </div>
                             <div class="feature__content">
                                 <h5>Gestión De Riesgo</h5>
@@ -207,7 +207,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item text-center">
                             <div class="feature__thumb">
-                                <img src="assets/Variedad-De-Eventos-Deportivos.png" alt="rajib raj" width="100px">
+                                <img src="assets/Variedad-De-Eventos-Deportivos.png" alt="" width="100px">
                             </div>
                             <div class="feature__content">
                                 <h5>Variedad De Eventos Deportivos</h5>
@@ -218,7 +218,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item text-center">
                             <div class="feature__thumb">
-                                <img src="assets/ALTAS-CUOTAS.png" alt="rajib raj" width="100px">
+                                <img src="assets/ALTAS-CUOTAS.png" alt="" width="100px">
                             </div>
                             <div class="feature__content">
                                 <h5>Las Mejores Cuotas Del Mercado</h5>
@@ -229,7 +229,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item text-center">
                             <div class="feature__thumb">
-                                <img src="assets/Alto-Nivel-De-Encriptación-Y-Seguridad.png" alt="rajib raj" width="100px">
+                                <img src="assets/Alto-Nivel-De-Encriptación-Y-Seguridad.png" alt="" width="100px">
                             </div>
                             <div class="feature__content">
                                 <h5>Alto Nivel De Encriptación Y Seguridad</h5>
@@ -240,7 +240,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item text-center">
                             <div class="feature__thumb">
-                                <img src="assets/Datos-Y-EstadísticasS.png" alt="rajib raj" width="100px">
+                                <img src="assets/Datos-Y-EstadísticasS.png" alt="" width="100px">
                             </div>
                             <div class="feature__content">
                                 <h5>Datos Y Estadísticas Detalladas De Las Apuestas</h5>
@@ -263,9 +263,9 @@
                         <div class="row g-4">
                             <div class="col-12">
                                 <div class="about__img about__img--thumb">
-                                  <!--   <img src="https://www.sportbetperu.com/img/frontend/tinbet/tinbet-peru.png" alt="rajib raj"> -->
+                                  <!--   <img src="https://www.sportbetperu.com/img/frontend/tinbet/tinbet-peru.png" alt=""> -->
                                     <div class="">
-                                        <img src="assets/mapa-tinbet.png" alt="rajib raj">
+                                        <img src="assets/mapa-tinbet.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -328,7 +328,7 @@
                         <div class="row g-4">
                             <div class="col-12">
                                 <div class="about__img about__img--thumb">
-                                    <img src="https://www.sportbetperu.com/img/frontend/empresa-sportbetperu-2.png" alt="rajib raj">
+                                    <img src="https://www.sportbetperu.com/img/frontend/empresa-sportbetperu-2.png" alt="">
                                    
                                 </div>
                             </div>

@@ -54,7 +54,7 @@
                                 <div class="service__item bg-ash text-center wow animate__animated animate__fadeInUp">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="{{asset('assets/tinbet/resultados-en-vivo.png')}}" alt="bio thumb" width="80px">
+                                            <img src="{{asset('assets/tinbet/resultados-en-vivo.png')}}" alt="Resultados En Vivo" width="80px">
                                         </div>
                                         <div class="service__content">
                                             <h5>Resultados En Vivo</h5>
@@ -68,7 +68,7 @@
                                 <div class="service__item bg-ash text-center wow animate__animated animate__fadeInUp">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="{{asset('assets/tinbet/gestion-de-riesgo.png')}}" alt="bio thumb" width="80px">
+                                            <img src="{{asset('assets/tinbet/gestion-de-riesgo.png')}}" alt="Gestión De Riesgo" width="80px">
                                         </div>
                                         <div class="service__content">
                                             <h5>Gestión De Riesgo</h5>
@@ -82,7 +82,7 @@
                                 <div class="service__item bg-ash text-center wow animate__animated animate__fadeInUp">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="{{asset('assets/tinbet/variedad-de-eventos.png')}}" alt="bio thumb" width="80px">
+                                            <img src="{{asset('assets/tinbet/variedad-de-eventos.png')}}" alt="Variedad De Eventos Deportivos" width="80px">
                                         </div>
                                         <div class="service__content">
                                             <h5>Variedad De Eventos Deportivos</h5>
@@ -96,7 +96,7 @@
                                 <div class="service__item bg-ash text-center wow animate__animated animate__fadeInUp">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="{{asset('assets/tinbet/altas-cuotassd.png')}}" alt="bio thumb" width="80px">
+                                            <img src="{{asset('assets/tinbet/altas-cuotassd.png')}}" alt="Las Mejores Cuotas Del Mercado" width="80px">
                                         </div>
                                         <div class="service__content">
                                             <h5>Las Mejores Cuotas Del Mercado</h5>
@@ -110,7 +110,7 @@
                                 <div class="service__item bg-ash text-center wow animate__animated animate__fadeInUp">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="{{asset('assets/tinbet/alto-nivel-de-encrioatcion.png')}}" alt="bio thumb" width="80px">
+                                            <img src="{{asset('assets/tinbet/alto-nivel-de-encrioatcion.png')}}" alt="Alto Nivel De Encriptación Y Seguridad" width="80px">
                                         </div>
                                         <div class="service__content">
                                             <h5>Alto Nivel De Encriptación Y Seguridad</h5>
@@ -124,7 +124,7 @@
                                 <div class="service__item bg-ash text-center wow animate__animated animate__fadeInUp">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="{{asset('assets/tinbet/datos-y-etadisticass.png')}}" alt="bio thumb" width="80px">
+                                            <img src="{{asset('assets/tinbet/datos-y-etadisticass.png')}}" alt="Datos Y Estadísticas Detalladas De Las Apuestas" width="80px">
                                         </div>
                                         <div class="service__content">
                                             <h5>Datos Y Estadísticas Detalladas De Las Apuestas</h5>
@@ -187,7 +187,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="service__thumb wow animate__animated animate__slideInRight">
-                        <img src="{{asset('assets/mapa-tinbet.png')}}" alt="Service Thumbnail">
+                        <img src="{{asset('assets/mapa-tinbet.png')}}" alt="Mapa tinbet">
                     </div>
                 </div>
             </div>
@@ -208,10 +208,10 @@
                                 <h4>Apuestas Deportivas</h4>
                             </div> -->
                             <div class="about__thumb-project">
-                                <img src="{{asset('/assets/lugar.png')}}" alt="Camera Icon">
+                                <img src="{{asset('/assets/lugar.png')}}" alt="1000 locales">
                                 <h4>+1000 locales</h4>
                             </div>
-                            <img src="{{asset('assets/socios.png')}}" alt="About Image">
+                            <img src="{{asset('assets/socios.png')}}" alt="Socios">
                         </div>
                     </div>
                     <div class="col-lg-6">

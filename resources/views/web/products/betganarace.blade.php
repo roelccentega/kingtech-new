@@ -22,7 +22,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="banner__thumb wow animate__animated animate__slideInRight">
-                            <img src="{{asset('assets/hipica/CABALLOS.png')}}" alt="Author Image">
+                            <img src="{{asset('assets/hipica/CABALLOS.png')}}" alt=" ">
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="service__thumb wow animate__animated animate__slideInRight">
-                        <img src="{{asset('/assets/hipica/betgana-111.png')}}" alt="Service Thumbnail">
+                        <img src="{{asset('/assets/hipica/betgana-111.png')}}" alt=" ">
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                 <div class="row g-5">
                     <div class="col-lg-6">
                         <div class="about__thumb  wow animate__animated animate__slideInLeft">
-                            <img src="{{asset('assets/hipica/portada-betrace.png')}}" alt="About Image">
+                            <img src="{{asset('assets/hipica/portada-betrace.png')}}" alt=" ">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -105,7 +105,7 @@ No Dude En Ponerte En Contacto Con Nosotros.</h2>
                         <ul class="contact__info">
                             <li class="contact__info-item">
                                 <div class="contact__info-thumb">
-                                    <img src="appbetganarace/assets/images/contact/icon/call.png" alt="Phone Icon">
+                                    <img src="appbetganarace/assets/images/contact/icon/call.png" alt=" ">
                                 </div>
                                 <div class="contact__info-content">
                                     <h4>
@@ -115,7 +115,7 @@ Número De Teléfono</h4>
                             </li>
                             <li class="contact__info-item">
                                 <div class="contact__info-thumb">
-                                    <img src="appbetganarace/assets/images/contact/icon/mail.png" alt="Mail Icon">
+                                    <img src="appbetganarace/assets/images/contact/icon/mail.png" alt=" ">
                                 </div>
                                 <div class="contact__info-content">
                                     <h4>Correo Electrónico</h4>
@@ -125,7 +125,7 @@ Número De Teléfono</h4>
                             </li>
                             <li class="contact__info-item">
                                 <div class="contact__info-thumb">
-                                    <img src="appbetganarace/assets/images/contact/icon/location.png" alt="Location Icon">
+                                    <img src="appbetganarace/assets/images/contact/icon/location.png" alt=" ">
                                 </div>
                                 <div class="contact__info-content">
                                     <h4>

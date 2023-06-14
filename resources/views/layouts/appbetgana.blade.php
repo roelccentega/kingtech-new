@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Betgana</title>
+    <title>Betgana - Apuestas Deportivas</title>
  
     <link rel="stylesheet" href="appbetgana/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="appbetgana/assets/css/all.min.css">
@@ -77,7 +77,7 @@
     <footer class="footer">
         <div class="container">
             <div class="footer__content">
-                <a class="footer__logo" href="index.html"><img src="/assets/logo-blanco-betgana.png" width="185px" alt="Bio" width="180px"></a>
+                <a class="footer__logo" href="index.html"><img src="/assets/logo-blanco-betgana.png" width="185px" alt="" width="180px"></a>
                 <ul class="footer__menu mb-4">
                     <li class="footer__menu-item">
                         <a href="{{url('/')}}" class="footer__menu-link">Inicio</a>

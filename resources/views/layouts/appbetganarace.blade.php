@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bet Gana Race</title>
+    <title>Bet Gana Race - Juegos Virtuales</title>
   
     <link rel="stylesheet" href="appbetganarace/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="appbetganarace/assets/css/all.min.css">
@@ -75,7 +75,7 @@
     <footer class="footer">
         <div class="container">
             <div class="footer__content">
-                <a class="footer__logo" href="https://betganarace.net/" target="_blank"><img src="assets/logo-blanco-betganarace.png" alt="Bio" width="280px"></a>
+                <a class="footer__logo" href="https://betganarace.net/" target="_blank"><img src="assets/logo-blanco-betganarace.png" alt="" width="280px"></a>
                 <ul class="footer__menu mb-4">
                     <li class="footer__menu-item">
                         <a href="{{url('/')}}" class="footer__menu-link">Inicio</a>

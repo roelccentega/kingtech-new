@@ -22,7 +22,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="banner__thumb wow animate__animated animate__slideInLeft">
-                            <img src="assets/betgana/condor-betgana.png" alt="Author Image">
+                            <img src="assets/betgana/condor-betgana.png" alt=" ">
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                                 <div class="service__item service__item--style3">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="/assets/betgana/resultados-en-vivo.png" width="90px" alt="bio thumb">
+                                            <img src="/assets/betgana/resultados-en-vivo.png" width="90px" alt=" ">
                                         </div>
                                         <div class="service__content">
                                             <h5>Resultados en vivo</h5>
@@ -72,7 +72,7 @@
                                 <div class="service__item service__item--style3">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="/assets/betgana/gestion-de-riesgos.png" width="90px" alt="bio thumb">
+                                            <img src="/assets/betgana/gestion-de-riesgos.png" width="90px" alt=" ">
                                         </div>
                                         <div class="service__content">
                                             <h5>Gestión de riesgo</h5>
@@ -86,7 +86,7 @@
                                 <div class="service__item service__item--style3">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="/assets/betgana/variedad-en-eventos-deportivos.png" width="90px" alt="bio thumb">
+                                            <img src="/assets/betgana/variedad-en-eventos-deportivos.png" width="90px" alt=" ">
                                         </div>
                                         <div class="service__content">
                                             <h5>Variedad de eventos deportivos</h5>
@@ -100,7 +100,7 @@
                                 <div class="service__item service__item--style3">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="/assets/betgana/mejores-cuotas-del-mercado.png" width="90px" alt="bio thumb">
+                                            <img src="/assets/betgana/mejores-cuotas-del-mercado.png" width="90px" alt=" ">
                                         </div>
                                         <div class="service__content">
                                             <h5>Las mejores cuotas del mercado</h5>
@@ -114,7 +114,7 @@
                                 <div class="service__item service__item--style3">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="/assets/betgana/alto-nivel-de-encriptación.png" width="90px" alt="bio thumb">
+                                            <img src="/assets/betgana/alto-nivel-de-encriptación.png" width="90px" alt=" ">
                                         </div>
                                         <div class="service__content">
                                             <h5>Alto nivel de encriptación y seguridad</h5>
@@ -128,7 +128,7 @@
                                 <div class="service__item service__item--style3">
                                     <div class="service__inner">
                                         <div class="service__thumb service__thumb--rounded-shadow">
-                                            <img src="/assets/betgana/datos-y-estadisticas.png" width="90px" alt="bio thumb">
+                                            <img src="/assets/betgana/datos-y-estadisticas.png" width="90px" alt=" ">
                                         </div>
                                         <div class="service__content">
                                             <h5>Datos y estadísticas detalladas de las apuestas</h5>
@@ -154,7 +154,7 @@
                 <div class="row g-5">
                     <div class="col-lg-6">
                         <div class="about__thumb wow animate__animated animate__fadeInUp">
-                            <img src="{{asset('/assets/betgana/betgana-socios.png')}}" alt="About Image">
+                            <img src="{{asset('/assets/betgana/betgana-socios.png')}}" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -226,7 +226,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about__thumb  wow animate__animated animate__slideInLeft">
-                            <img src="{{asset('assets/betgana/mapa-betgana.png')}}" alt="About Image">
+                            <img src="{{asset('assets/betgana/mapa-betgana.png')}}" alt=" ">
                         </div>
                     </div>
                   
@@ -255,7 +255,7 @@
                 <div class="row g-5 flex-lg-row-reverse">
                     <div class="col-lg-4">
                         <div class="consult__thumb text-center">
-                            <img src="assets/betgana/BETGAN-D.png" alt="Doctor Image">
+                            <img src="assets/betgana/BETGAN-D.png" alt=" ">
                         </div>
                     </div>
                     <div class="col-lg-8">
@@ -314,7 +314,7 @@
                         <ul class="contact__info">
                             <li class="contact__info-item contact__info-item--transparent">
                                 <div class="contact__info-thumb">
-                                    <img src="appbetgana/assets/images/contact/icon/white/call.png" alt="Phone Icon">
+                                    <img src="appbetgana/assets/images/contact/icon/white/call.png" alt="">
                                 </div>
                                 <div class="contact__info-content">
                                     <h4>
@@ -324,7 +324,7 @@ Número De Teléfono</h4>
                             </li>
                             <li class="contact__info-item contact__info-item--transparent">
                                 <div class="contact__info-thumb">
-                                    <img src="appbetgana/assets/images/contact/icon/white/mail.png" alt="Mail Icon">
+                                    <img src="appbetgana/assets/images/contact/icon/white/mail.png" alt="">
                                 </div>
                                 <div class="contact__info-content">
                                     <h4>Dirección De Correo Electrónico</h4>
@@ -336,7 +336,7 @@ info@kingtech.com
                             </li>
                             <li class="contact__info-item contact__info-item--transparent">
                                 <div class="contact__info-thumb">
-                                    <img src="appbetgana/assets/images/contact/icon/white/location.png" alt="Location Icon">
+                                    <img src="appbetgana/assets/images/contact/icon/white/location.png" alt="">
                                 </div>
                                 <div class="contact__info-content">
                                     <h4>Dirección</h4>

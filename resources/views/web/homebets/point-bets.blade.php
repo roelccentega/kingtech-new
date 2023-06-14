@@ -59,7 +59,7 @@ NEGOCIO</h5>
                         <div class="row g-4">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                    <img src="assets/puntos2.png" alt="rajib raj">
+                                    <img src="assets/puntos2.png" alt="">
                                 </div>
                             </div>
                             
@@ -115,18 +115,18 @@ NEGOCIO</h5>
                         <div class="row g-4" style="max-width: 90%">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                   <img src="assets/requerimientos.png" alt="rajib raj">
+                                   <img src="assets/requerimientos.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
                                  
-                                    <img src="assets/requerimientos1.png" alt="rajib raj">
+                                    <img src="assets/requerimientos1.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
-                                     <img src="assets/requerimientos2.png" alt="rajib raj">
+                                     <img src="assets/requerimientos2.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -153,7 +153,7 @@ NEGOCIO</h5>
                         <div class="service__item">
                             <div class="service__front text-center">
                                 <div class="service__icon">
-                                    <img src="assets/SOPORTE-TECNICO.png" alt="rajib raj" width="100px">
+                                    <img src="assets/SOPORTE-TECNICO.png" alt="" width="100px">
                                 </div>
                                 <div class="service__content">
                                     <h5>Soporte Técnico</h5>
@@ -167,7 +167,7 @@ NEGOCIO</h5>
                         <div class="service__item">
                             <div class="service__front text-center">
                                 <div class="service__icon">
-                                    <img src="assets/asesoria-comercial.png" alt="rajib raj" width="100px">
+                                    <img src="assets/asesoria-comercial.png" alt="" width="100px">
                                 </div>
                                 <div class="service__content">
                                     <h5>Asesoría comercial</h5>
@@ -181,7 +181,7 @@ NEGOCIO</h5>
                         <div class="service__item">
                             <div class="service__front text-center">
                                 <div class="service__icon">
-                                    <img src="assets/diseno-grafico.png" alt="rajib raj" width="100px">
+                                    <img src="assets/diseno-grafico.png" alt="" width="100px">
                                 </div>
                                 <div class="service__content">
                                     <h5>Diseño Gráfico</h5>
@@ -195,7 +195,7 @@ NEGOCIO</h5>
                         <div class="service__item">
                             <div class="service__front text-center">
                                 <div class="service__icon">
-                                    <img src="assets/diseño-de-interiroes.png" alt="rajib raj" width="100px">
+                                    <img src="assets/diseño-de-interiroes.png" alt="" width="100px">
                                 </div>
                                 <div class="service__content">
                                     <h5>Diseño de Interiores 3D</h5>
@@ -209,7 +209,7 @@ NEGOCIO</h5>
                         <div class="service__item">
                             <div class="service__front text-center">
                                 <div class="service__icon">
-                                    <img src="assets/logistica.png" alt="rajib raj" width="100px">
+                                    <img src="assets/logistica.png" alt="" width="100px">
                                 </div>
                                 <div class="service__content">
                                     <h5>Logística</h5>
@@ -223,7 +223,7 @@ NEGOCIO</h5>
                         <div class="service__item">
                             <div class="service__front text-center">
                                 <div class="service__icon">
-                                    <img src="assets/actualizaciones.png" alt="rajib raj" width="100px">
+                                    <img src="assets/actualizaciones.png" alt="" width="100px">
                                 </div>
                                 <div class="service__content">
                                     <h5>Actualizaciones</h5>
@@ -248,7 +248,7 @@ NEGOCIO</h5>
             <div class="row justify-content-center g-4">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="wwd__thumb">
-                        <img src="assets/para-que-invertir.png" alt="rajib raj">
+                        <img src="assets/para-que-invertir.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
@@ -350,7 +350,7 @@ Emprende tu negocio propio</span>
                     <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="https://www.sportbetperu.com/img/frontend/casa-de-apuestas/apuestas-deportivas.png" alt="rajib raj">
+                                <img src="{{asset('assets/apuestas-deportivas.png')}}" alt="">
                             </div>
                             <div class="team__content">
                                 <h5>Apuestas Deportivas</h5>
@@ -363,7 +363,7 @@ Emprende tu negocio propio</span>
                     <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="https://www.sportbetperu.com/img/frontend/casa-de-apuestas/juegos-virtuales.png" alt="rajib raj">
+                                <img src="{{asset('assets/juegos-virtuales.png')}}" alt="">
                             </div>
                             <div class="team__content">
                                 <h5>Juegos Virtuales</h5>
