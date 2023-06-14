@@ -21,7 +21,7 @@
 Puntos de Apuestas en todo el Perú. " />
     <meta name="keywords" content="Casas de apuestas, Software de apuestas, Apuestas Deportivas, Video loteria">
     <meta name="author" content="Kingtech" />
-    <meta name="email" content="contacto@kingtech.com" />
+  
 
 
 
