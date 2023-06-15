@@ -168,7 +168,7 @@
 
 <p>¡No esperes más, conviértete en nuestro socio y comienza a ganar con un negocio rentable!</p>
                              
-                                <a href="assets/cv.pdf" class="default-btn mt-30" download> <span>Descargar Brochure</span>
+                                <a href="assets/brochure-betgana.pdf" class="default-btn mt-30" download> <span>Descargar Brochure</span>
                                 </a>
                             </div>
                         </div>

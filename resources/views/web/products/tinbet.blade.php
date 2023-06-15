@@ -225,7 +225,7 @@
 
 <p> Si estás buscando un proveedor de software de Igaming y este considerando invertir en los negocios de apuestas no dudes en contactarnos, será un gusto poder ayudarte.</p>
                            
-                                <a href="assets/cv.pdf" class="default-btn mt-30" download> <span>Descargar Brochure</span>
+                                <a href="assets/brochure-tinbet.pdf" class="default-btn mt-30" download> <span>Descargar Brochure</span>
                                 </a>
                             </div>
                         </div>
