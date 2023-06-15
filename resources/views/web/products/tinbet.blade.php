@@ -13,7 +13,7 @@
                 <div class="row g-5">
                     <div class="col-lg-8">
                         <div class="banner__content wow animate__animated animate__slideInLeft">
-                            <span>Software De Apuestas Deportivas</span>
+                            <span style="color: #009636">Software De Apuestas Deportivas</span>
                             <h2><span>Tinbet</span> - Apuestas Deportivas</h2>
                             <p>El programa de apuestas deportivas con la interfaz más atractiva y moderna, fácil de usar y con una gran variedad de deportes totalmente en vivo hasta el último segundo.</p>
                             <div class="group-btn g-30">

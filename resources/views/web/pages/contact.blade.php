@@ -45,7 +45,7 @@
     <div class="contact padding-tb">
         <div class="container">
             <div class="section__header text-center">
-                <h5>NUESTROS CONTACTOS</h5>
+                <h5 style="color: #009636">NUESTROS CONTACTOS</h5>
                 <h2>Estamos Aquí Para Ayudarte</h2>
             </div>
             <div class="section__wrapper">
@@ -96,7 +96,7 @@
     <div class="contact padding-tb contact--one contact--three bg-img" style="background-image: url(assets/images/bg/14.jpg);">
         <div class="container">
             <div class="section__header text-center">
-                <h5>Ponerse en contacto!</h5>
+                <h5 style="color: #009636">Ponerse en contacto!</h5>
                 <h2>¿Tiene Alguna Pregunta? No Dude En Ponerse En Contacto Con Nosotros.</h2>
             </div>
             <div class="section__wrapper">

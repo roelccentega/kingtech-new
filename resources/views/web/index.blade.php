@@ -173,7 +173,7 @@
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="about__content">
-                        <h5>+ 5 años de experiencia</h5>
+                        <h5 style="color: #009636">+ 5 años de experiencia</h5>
                         <h2>¿Quiénes somos?</h2>
                         
                         <p>En nuestra trayectoria en el mercado nos hemos convertido en una de las Empresas de Software de Apuestas que más ha apoyado e impulsado a cientos de emprendedores a montar su propia casa de apuestas deportivas en todo el Perú. Trabajando siempre con las mejores tecnologías y ofreciendo asesoramiento profesional a todos nuestros clientes.</p>
@@ -197,7 +197,7 @@
     <div class="service service--two padding-tb bg-img" style="background-image: url(assets/images/bg/06.jpg);">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h5>Productos</h5>
+                <h5 style="color: #009636">Productos</h5>
                 <h2>Apuestas Deportivas</h2>
             </div>
             <div class="section__wrapper wow fadeInUp" data-wow-delay=".5s">
@@ -326,7 +326,7 @@
     <div class="project padding-tb">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h5>Tiendas Recientes</h5>
+                <h5 style="color: #009636">Diseños Render</h5>
                 <h2>FRANQUICIAS</h2>
             </div>
             <div class="section__wrapper">
@@ -692,7 +692,7 @@
     <div class="contact padding-tb contact--one">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h5>Consulta</h5>
+                <h5 style="color: #009636">Consulta</h5>
                 <h2>¿Tienes alguna pregunta? ¡Ponte en contacto!</h2>
             </div>
             <div class="section__wrapper wow fadeInUp" data-wow-delay=".5s">

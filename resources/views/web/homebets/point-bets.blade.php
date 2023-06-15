@@ -40,7 +40,7 @@
             <div class="row justify-content-center align-items-center g-4">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="about__content">
-                        <h5>SOMOS UNA NUEVA OPCIÓN PARA POTENCIAR TU
+                        <h5 style="color: #009636">SOMOS UNA NUEVA OPCIÓN PARA POTENCIAR TU
 NEGOCIO</h5>
                         <h2>Puntos de Apuestas</h2>
                         
@@ -144,7 +144,7 @@ NEGOCIO</h5>
     <div class="service padding-tb bg-img" style="background-image: url(assets/images/bg/15.jpg);">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h5>¡El que sabe, sabe!</h5>
+                <h5 style="color: #009636">¡El que sabe, sabe!</h5>
                 <h2>Te Apoyamos</h2>
             </div>
             <div class="section__wrapper">
@@ -248,13 +248,13 @@ NEGOCIO</h5>
             <div class="row justify-content-center g-4">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="wwd__thumb">
-                        <img src="assets/para-que-invertir.png" alt="">
+                        <img src="assets/para-que-invertir.png" alt="" width="90%">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
                     <div class="wwd__content">
                         <div class="section__header wow fadeInUp" data-wow-delay=".5s">
-                            <h5>Casa de apuestas deportivas</h5>
+                            <h5 style="color: #009636">Casa de apuestas deportivas</h5>
                             <h2>Razones para invertir</h2>
                         
                         </div>

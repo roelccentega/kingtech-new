@@ -40,7 +40,7 @@
             <div class="row justify-content-center align-items-center g-4">
                 <div class="col-lg-6 col-12">
                     <div class="about__content">
-                        <h5>Apuestas Deportivas</h5>
+                        <h5 style="color: #009636">Apuestas Deportivas</h5>
                         <h2>¿Quiénes somos?</h2>
                         <p>	En nuestra trayectoria en el mercado, nos hemos convertido en una de las Empresas de Software de Apuestas que más ha apoyado e impulsado a cientos de emprendedores a montar su propia casa de apuestas deportivas en todo el Perú. Trabajando siempre con las mejores tecnologías y ofreciendo asesoramiento profesional a todos nuestros clientes.</p>
 
