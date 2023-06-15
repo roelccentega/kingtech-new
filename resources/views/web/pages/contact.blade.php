@@ -32,7 +32,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="{{URL('/')}}">Inicio</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Contacto</li>
+                        <li class="breadcrumb-item active" aria-current="page" style="color: #009636">Contacto</li>
                     </ol>
                 </nav>
             </div>
