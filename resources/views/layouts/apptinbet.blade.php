@@ -67,7 +67,7 @@
                         
                         </ul>
 
-                        <a class="default-btn enlace-home ms-3" href="{{url('/')}}" ><span> <i>    </i>Volver a la página principal</span></a>
+                        <a class="default-btn enlace-home ms-3 text-center" href="{{url('/')}}" ><span> <i>    </i>Volver a la página principal</span></a>
                     </div>
                 </div>
             </nav>

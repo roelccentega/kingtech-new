@@ -43,7 +43,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="https://betganarace.net/" target="_blank">
-                        <img src="assets/logo-betganarace.png" alt="logo" width="250px">
+                        <img src="assets/logo-betganarace.png" alt="logo" width="180px">
                     </a>
                     <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
@@ -60,7 +60,7 @@
                             </li>
                           
                         </ul>
-                        <a class="default-btn ms-3" href="{{asset('/')}}" ><span>Volver a la página principal</span></a>
+                        <a class="default-btn ms-3 text-center" href="{{asset('/')}}" ><span>Volver a la página principal</span></a>
                     </div>
                 </div>
             </nav>

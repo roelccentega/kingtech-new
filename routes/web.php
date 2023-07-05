@@ -34,3 +34,7 @@ Route::get('/tiendas-de-apuestas-deportivas','HomeBetsController@storeBets');
 
 // soporte
 Route::get('/terminos-y-condiciones','HomeBetsController@terms');
+
+//Events
+
+Route::get('/eventos/peru-gaming-show', 'GeneralController@peruGaming');

@@ -7,11 +7,11 @@
                         <div class="info">
                             <ul>
                                 <li>
-                                    <img src="{{asset('assets/images/header/icon/01.png')}}" alt="rajib raj" >
-                                    <span>info@kingtech.com</span>
+                                    <img src="{{asset('assets/images/header/icon/01.png')}}" alt="kingtech" >
+                                    <span>info@kingtech.pe</span>
                                 </li>
                                 <li>
-                                    <img src="assets/images/header/icon/02.png" alt="rajib raj" >
+                                    <img src="{{asset('assets/images/header/icon/02.png')}}" alt="kingtech" >
                                     <span>Lunes-Viernes : 08:00 pm - 22:00 pm</span>
                                 </li>
                             </ul>
@@ -21,7 +21,7 @@
                         <div class="social text-xl-end">
                             <ul>
                                 <li><a href="https://www.google.com/maps/place/Av.+Gral.+Antonio+Alvarez+de+Arenales+2523,+Lince+15046/@-12.089371,-77.0348,17z/data=!4m6!3m5!1s0x9105c85e3889d159:0x8ac4fa1a74e7c08a!8m2!3d-12.0893706!4d-77.0347996!16s%2Fg%2F11ts_wfyv0?hl=es-419" style="color: white" target="blank">
-                                    <img src="assets/images/header/icon/03.png" alt="rajib raj" >
+                                    <img src="{{asset('assets/images/header/icon/03.png')}}" alt="Mapa de Kingtech" >
                                     <span>Av. Gral. Antonio Alvarez de Arenales 2523, Lince 15046</span>
                                 </a>
                                     
@@ -48,6 +48,16 @@
                                 </li>
                                 <li>
                                     <a href="{{url('/nosotros')}}">Nosotros</a>
+                                    <ul>
+                                        <li>
+                                            <a href="#0">Eventos</a>
+                                            <ul>
+                                                <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show</a></li>
+                                               <!--  <li><a href="{{url('/eventos/liga-powerade')}}">La Liga Powerade</a></li> -->
+                                            </ul>
+                                        </li>     
+                                    </ul>
+                                   
                                    
                                 </li>
                                 <li>
@@ -88,12 +98,12 @@
                                 <ul>
                                     <li class="" style="width: 88px">
                                         <a href="tel:51913069000">
-                                            <img src="assets/llamada.png" alt="Llamada">    
+                                            <img src="{{asset('assets/llamada.png')}}" alt="Llamada">    
                                         </a>
                                         
                                     </li>
                                     <li class="cart_icon" style="width: 88px">
-                                        <a href="https://www.facebook.com/sportbetperuoficial" target="_blank"><img src="assets/facebook.png" alt="rajib raj" width="120px"></a>
+                                        <a href="https://www.facebook.com/sportbetperuoficial" target="_blank"><img src="{{asset('assets/facebook.png')}}" alt="Facebook en Tinbet" width="120px"></a>
                                     </li>
                                 </ul>
                             </div>

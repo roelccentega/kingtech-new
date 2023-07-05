@@ -60,7 +60,7 @@
                             </li>
                           
                         </ul>
-                        <a class="default-btn ms-3" href="{{url('/')}}" ><span>Volver a la página principal</span></a>
+                        <a class="default-btn ms-3 text-center" href="{{url('/')}}" ><span>Volver a la página principal</span></a>
                     </div>
                 </div>
             </nav>

@@ -1,6 +1,6 @@
     
     <!-- ==========Footer Section Ends Here========== -->
-    <footer class="footer bg-img" style="background-image: url(assets/footer-oficial.jpg);">
+    <footer class="footer bg-img" style="background-image: url({{asset('assets/footer-oficial.jpg')}});">
         <div class="footer__top py-5">
             <div class="info">
                 <div class="container">
@@ -8,7 +8,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                             <div class="info__item">
                                 <div class="info__icon">
-                                    <img src="assets/images/footer/info/icon/01.png" alt="rajib raj">
+                                    <img src="{{asset('assets/images/footer/info/icon/01.png')}}" alt="Número de Teléfono">
                                 </div>
                                 <div class="info__content">
                                     <p>Número de teléfono</p>
@@ -19,18 +19,19 @@
                         <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                             <div class="info__item">
                                 <div class="info__icon">
-                                    <img src="assets/images/footer/info/icon/02.png" alt="rajib raj">
+                                    <img src="{{asset('assets/images/footer/info/icon/02.png')}}" alt="Dirección de correo electrónico 
+                                    Kigntech">
                                 </div>
                                 <div class="info__content">
                                     <p>Dirección de correo electrónico</p>
-                                    <h6>info@kingtech.com</h6>
+                                    <h6>info@kingtech.pe</h6>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                             <div class="info__item">
                                 <div class="info__icon">
-                                    <img src="assets/images/footer/info/icon/03.png" alt="Dirección de Tinbet">
+                                    <img src="{{asset('assets/images/footer/info/icon/03.png')}}" alt="Dirección de Kingtech">
                                 </div>
                                 <div class="info__content">
                                     <p>Dirección</p>
@@ -82,19 +83,20 @@
                             <ul>
                                 <li>
                                     <div class="footer__post--thumb">
-                                        <a href="assets/render4.jpg"><img src="assets/render4.jpg" alt="rajib raj"></a>
+                                        <a href="{{asset('assets/render4.jpg')}}"><img src="{{asset('assets/render4.jpg')}}" alt="Vista Interior de Zona de Apuestas - Kingtech"></a>
                                     </div>
                                     <div class="footer__post--content">
-                                        <h6><a href="assets/render4.jpg">Vista Interior De Zona De Apuestas 2</a></h6>
+                                        <h6><a href="{{asset('assets/render4.jpg')}}" title="Vista Interior de Zona de Apuestas - Kingtech">Vista Interior De Zona De Apuestas 2</a></h6>
                                         <span><i class="fa-solid fa-calendar-days"></i> Render Tiendas Tinbet</span>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="footer__post--thumb">
-                                        <a href="assets/render5.jpg"><img src="assets/render5.jpg" alt="rajib raj"></a>
+                                        <a href="{{asset('assets/render5.jpg')}}">
+                                            <img src="{{asset('assets/render5.jpg')}}" alt="Vista Interior de Caja"></a>
                                     </div>
                                     <div class="footer__post--content">
-                                        <h6><a href="assets/render5.jpg">Vista Interior de Caja</a></h6>
+                                        <h6><a href="{{asset('assets/render5.jpg')}}">Vista Interior de Caja</a></h6>
                                         <span><i class="fa-solid fa-calendar-days"></i> Render Tiendas Tinbet</span>
                                     </div>
                                 </li>

@@ -14,8 +14,23 @@
         display: block;
         }   
     }
+        .max-w 
+                    {
+                        max-width: 90%;
+                    }
+                    @media(max-width: 768px)
+                    {
+                     .max-w 
+                    {
+                        max-width: 100%;
+                    } 
+                    .none-5{
+                        display: none;
+                    }  
+                    }
 
 </style>
+
 <!-- ==========Banner Section Start Here========== -->
     <div class="pageheader padding-tb bg-img bg-breadcrumb" >
         <div class="container">
@@ -67,7 +82,7 @@
                                     <img src="{{asset('assets/kngtech-2.png')}}" alt="">
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                            <div class="col-md-6 col-12 wow fadeInUp none-5" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
                                     <img src="{{asset('assets/kngtech-3.png')}}" alt="">
                                     
@@ -124,9 +139,10 @@
                         <a href="https://wa.me/51913069000" target="_blank" class="lab-btn bg-title">Quiero ser socio <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
+               
                 <div class="col-lg-6 col-12">
                     <div class="about__thumb">
-                        <div class="row g-4" style="max-width: 90%">
+                        <div class="row g-4 max-w text-center">
                             <div class="col-12 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
                                     <img src="assets/requerimientos.png" alt="">
@@ -137,16 +153,13 @@
                                     <img src="assets/requerimientos1.png" alt="">
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                            <div class="col-md-6 col-12 wow fadeInUp none-5" data-wow-delay=".5s">
                                 <div class="about__img about__img--thumb">
                                     <img src="assets/requerimientos2.png" alt="">
                                 </div>
                             </div>
                         </div>
-                        <div class="about__img--content wow fadeInUp" data-wow-delay=".5s">
-                           <h2 style="color: #0B2239">+5</h2>
-                            <p><span>Años</span> de experiencia</p>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
@@ -254,14 +267,24 @@
         </div>
     </div>
     <!-- ==========Service Section Ends Here========== -->        
-
+<style type="">
+    .max-image img{
+            max-width: 90%
+    }
+    @media(max-width: 768px)
+    {
+     .max-image img{
+            max-width: 100%
+    }   
+    }
+</style>
        <!-- ==========What we do Section Ends Here========== -->
     <div class="wwd wwd--one padding-tb bg-img" >
         <div class="container">
             <div class="row justify-content-center g-4">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
-                    <div class="wwd__thumb" >
-                        <img src="assets/para-que-invertir-o.png" alt="" width="90%">
+                    <div class="wwd__thumb text-center max-image" >
+                        <img src="assets/para-que-invertir-o.png" alt="" >
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">

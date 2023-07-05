@@ -34,5 +34,10 @@ class GeneralController extends Controller
         return redirect('/contacto')->with('notification','¡Enhorabuena! Tu mensaje ha sido enviado con éxito.');
 //        return redirect('/contacto')->with('status', ' ¡Enhorabuena! Tu mensaje ha sido enviado con éxito.');
     }
+
+    public function peruGaming()
+    {
+        return view('web.events.peru-gaming');
+    }
     
 }
