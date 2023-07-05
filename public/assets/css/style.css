@@ -1616,7 +1616,7 @@ input, textarea, select {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  background: rgba(52, 189, 107, 0.9);
+  background: rgba(11,34,57, 0.9);;
   opacity: 0;
 }
 .project--four .project__content {

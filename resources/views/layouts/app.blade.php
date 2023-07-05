@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/lightcase.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/style.css?v=4')}}">
 
-    <title>Kingtech | Líder en Software de Apuestas Deportivas en Perú 🥇</title>
+    <title>Kingtech - Líder en Software de Apuestas Deportivas en Perú 🥇</title>
     <meta name="description" content="Empresa proveedor de Software Igaming, Apuestas Deportivas, Juegos Virtuales y Video Lotería para Casas y
 Puntos de Apuestas en todo el Perú. " />
     <meta name="keywords" content="Casas de apuestas, Software de apuestas, Apuestas Deportivas, Video loteria">
