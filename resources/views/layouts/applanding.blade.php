@@ -2,8 +2,17 @@
 <html lang="en">
 
 
-<!-- Mirrored from labartisan.net/pixian/bizpoint-demo/bizpoint/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Mar 2023 18:58:12 GMT -->
+
 <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D19RPMYWM0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D19RPMYWM0');
+</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- x-icon -->
@@ -204,5 +213,5 @@
     <script src="assets/js/functions.js"></script>
 </body>
 
-<!-- Mirrored from labartisan.net/pixian/bizpoint-demo/bizpoint/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Mar 2023 18:58:20 GMT -->
+
 </html>
