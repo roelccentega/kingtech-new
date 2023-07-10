@@ -30,7 +30,7 @@
     <div class="pageheader padding-tb bg-img bg-breadcrumb" >
         <div class="container">
             <div class="pageheader__area text-center">
-                <h2>Perú Gaming Show</h2>
+                <h2>Perú Gaming Show 2023</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>

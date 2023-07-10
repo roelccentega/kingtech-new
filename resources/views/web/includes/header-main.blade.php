@@ -64,7 +64,7 @@
 
                                             <a href="#0">Eventos</a>
                                             <ul>
-                                                <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show</a></li>
+                                                <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show 2023</a></li>
                                                <!--  <li><a href="{{url('/eventos/liga-powerade')}}">La Liga Powerade</a></li> -->
                                             </ul>
                                         </li>     
@@ -72,7 +72,7 @@
                                    
                                    
                                 </li>
-                               
+
                                 <li>
                                     <a href="#0">Productos</a>
                                     <ul>
