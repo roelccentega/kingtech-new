@@ -16,6 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Other css -->
+    @yield('css-carousel-images')
     <link rel="stylesheet" href="{{asset('assets/css/animate.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/all.min.css')}}">
@@ -162,6 +163,7 @@ Puntos de Apuestas en todo el Perú. " />
     <script src="{{asset('assets/js/form-whatsapp.js')}}"></script>
     <script src="{{asset('assets/js/form-whatsapp2.js')}}"></script>
     <script src="{{asset('assets/js/formWahtsapp-Contact.js')}}"></script>
+        @yield('script-carousel-images')
 
     <script type="text/javascript">
 

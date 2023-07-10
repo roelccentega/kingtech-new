@@ -32,6 +32,16 @@
                 </div>
             </div>
         </div>
+        <style type="">
+            @media(max-width: 768px)
+            {
+                    .none-menu
+                {
+                    display: none;
+                }    
+            }
+            
+        </style>
         <div class="header__bottom">
             <div class="container-fluid">
                 <div class="area">
@@ -47,9 +57,11 @@
                                     
                                 </li>
                                 <li>
-                                    <a href="{{url('/nosotros')}}">Nosotros</a>
-                                    <ul>
+                                    <a href="#0">Nosotros</a>
+                                    <ul class="none-menu">
+                                        <li> <a href="{{url('/nosotros')}}">Nosotros</a></li>
                                         <li>
+
                                             <a href="#0">Eventos</a>
                                             <ul>
                                                 <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show</a></li>
@@ -60,6 +72,7 @@
                                    
                                    
                                 </li>
+                               
                                 <li>
                                     <a href="#0">Productos</a>
                                     <ul>

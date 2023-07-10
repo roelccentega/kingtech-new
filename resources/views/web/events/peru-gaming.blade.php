@@ -1,4 +1,7 @@
 @extends('layouts.app')
+@section('css-carousel-images')
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css">
+@endsection
 @section('content')
 
 <style type="">
