@@ -33,12 +33,18 @@
             </div>
         </div>
         <style type="">
+            .img-logoh{
+                    width: 150px
+                }  
             @media(max-width: 768px)
             {
                     .none-menu
                 {
                     display: none;
-                }    
+                }  
+                .img-logoh{
+                    width: 150px
+                }  
             }
             
         </style>
@@ -80,15 +86,15 @@
                                         <li>
                                             <a href="#0">Apuestas Deportivas</a>
                                             <ul>
-                                                <li><a href="{{url('/tinbet')}}">Tinbet</a></li>
-                                                <li><a href="{{url('/betgana')}}">Betgana</a></li>
+                                                <li><a href="{{url('/tinbet')}}"><img src="{{asset('assets/tinbet-logo1.png')}}" class="img-logoh" title="Tinbet - Apuestas Deportivas"></a></li>
+                                                <li><a href="{{url('/betgana')}}"><img src="{{asset('/assets/betgana-blanco.png')}}" class="img-logoh" title="Betgana - Apuestas Deportivas"></a></li>
                                             </ul>
                                         </li>
                                         <li>
                                             <a href="#0">Juegos Virtuales</a>
                                             <ul>
                                                 <!-- <li><a href="{{url('/video-loteria')}}">Máquinas de Video Lotería</a></li> -->
-                                                <li><a href="{{url('/betganarace')}}">Betgana Race</a></li>
+                                                <li><a href="{{url('/betganarace')}}"><img src="{{asset('/assets/betganarace-blanco.png')}}" class="img-logoh"></a></li>
                                                 
                                             </ul>
                                         </li>
