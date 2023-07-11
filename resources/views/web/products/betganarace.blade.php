@@ -1,7 +1,18 @@
 @extends('layouts.appbetganarace')
 @section('content')
    
+<style type="">
 
+     @media(max-width: 768px)
+     {
+       .banner {
+        overflow: hidden;
+        background-color: #1F2235;
+        padding-block: 40px;
+    } 
+     }
+       
+</style>
 
     
        <!-- ========================= banner section start ========================= -->
