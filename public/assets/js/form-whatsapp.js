@@ -19,9 +19,9 @@ let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
 		
 		*Nombre Completo:*%0A
 		${name}%0A
-		*Documento de Identidad:*%0A
+		*Correo Electrónico:*%0A
 		${dni}%0A
-		*Mi User/ID*%0A
+		*Teléfono*%0A
 		${id}`;
 
 if (dni === "" || id === "") {

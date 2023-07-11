@@ -120,7 +120,7 @@ Puntos de Apuestas en todo el Perú. " />
           </div>
           <div class="campo">
           
-            <input type="text" name="dni" id="dni" size="40" placeholder="DNI" required>
+            <input type="text" name="dni" id="dni" size="40" placeholder="Correo Electrónico" required>
           </div>
           <div class="campo">
           
