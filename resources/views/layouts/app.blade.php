@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/swiper.min.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/odometer.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/lightcase.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/style.css?v=8')}}">
 
     <title>Kingtech - Líder en Software de Apuestas Deportivas en Perú 🥇</title>
     <meta name="description" content="Empresa proveedor de Software Igaming, Apuestas Deportivas, Juegos Virtuales y Video Lotería para Casas y
