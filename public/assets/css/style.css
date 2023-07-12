@@ -3460,11 +3460,13 @@ input, textarea, select {
 
 #wpp-fix {
   position: fixed;
-  bottom: 120px;
+  bottom: 100px;
   right: 17px;
   z-index: 12;
   /* Animations */
 }
+
+
 #wpp-fix a,
 #wpp-fix button {
   -webkit-transition: all 0.3s ease-in-out;
@@ -3832,7 +3834,7 @@ input, textarea, select {
 
   #wpp-fix {
     position: fixed;
-    bottom: 110px;
+    bottom: 90px;
     right: 20px
 }
   #wpp-fix svg {
