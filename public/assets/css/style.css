@@ -3460,8 +3460,8 @@ input, textarea, select {
 
 #wpp-fix {
   position: fixed;
-  bottom: 80px;
-  right: 55px;
+  bottom: 120px;
+  right: 17px;
   z-index: 12;
   /* Animations */
 }
@@ -4172,7 +4172,7 @@ input, textarea, select {
 }
 
 .whatsapp-images{
-  width: 70px;
+  width: 50px;
 }
 @media(max-width:768px)
 {
