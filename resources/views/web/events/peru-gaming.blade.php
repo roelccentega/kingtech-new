@@ -12,7 +12,15 @@
     .text-p{
             display: block;
         }
-     
+        .width-query{
+            width: 100%;
+            height: 100%
+
+        }
+  
+            .pad-parrafo{
+                padding-bottom: 80px
+            }
     @media(max-width: 768px)
     {
      
@@ -25,7 +33,15 @@
         }
         .padding-tb {
     padding-block: 40px;
-}
+            }
+             .width-query{
+            width: 100%;
+            height: 280px
+
+        }
+        .pad-parrafo{
+                padding-bottom: 10px
+            }
     }
 
 </style>
@@ -50,35 +66,24 @@
     <div class="project project--four padding-tb">
         <div class="container">
             <div class="section__wrapper">
-            	<div class=" col-lg-12 text-center">
+            	<div class=" col-lg-12 text-center pad-parrafo">
             		  <p>El <b>14</b> y <b>15</b> de junio fuimos unos de los protagonistas del <b>Perú Gaming Show 2023</b>, realizado en el Centro de Convenciones del Jockey Plaza, se logró brindar información rápida y directa al público sobre una inversión emocionante en el mundo de los <b>juegos deportivos.</b> 🌍🎮
                     </p>
 					<p>Nuestros establecimientos ofrecen un negocio de vanguardia, con instalaciones de primer nivel y experiencias únicas para los amantes del deporte. ⚽⛳</p>
 					<p>Aprovecha esta oportunidad para ser parte de una industria con amplia experiencia y deja tu huella en el mundo del entretenimiento. 🌟</p>
             	</div>
-            	<br>
-                 
-                  <video width="100%"  height="240" controls autoplay loop>
+          
+                 <div class="col-lg-12">
+                    <video class="width-query" controls autoplay loop>
                         <source src="{{asset('PGS-kingtech-2023.mp4')}}" type="video/mp4">
-                   </video>
+                   </video>   
+                 </div>
+                  
                 
                 <div class="project__grid grid">
-
+<br><br>
                     <div class="row justify-content-center g-4">
-                            <div class="col-lg-4 col-sm-6 col-12 business">
-                            <div class="project__item">
-                                <div class="pr">
-                                  
-                                    <!-- <img src="{{asset('PGS-kingtech-2023.mp4')}}" alt="Video Kingtech"> -->
-                                </div>
-                               <!--  <div class="project__content">
-                                    <a href="{{asset('/pgs/fot-2.png')}}" class="project__icon" data-rel="lightcase">
-                                        <i class="fa-solid fa-maximize"></i>
-                                    </a>
-                                  
-                                </div> -->
-                            </div>
-                        </div>
+                           
 
                       
                         <div class="col-lg-4 col-sm-6 col-12 business">
