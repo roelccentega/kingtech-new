@@ -11,6 +11,10 @@
      .block-address{
         display: none
      }
+     .pad-10
+     {
+        padding-top:50px;
+     }
     @media(max-width: 768px)
     {
      
@@ -26,6 +30,10 @@
         }
         .block-address{
         display: block
+     }
+     .pad-10
+     {
+        padding-top:10px;
      }
     }
     .contacts-widget .contacts-info-list > li {
@@ -69,98 +77,8 @@
             </div>
         </div>
     </div>
-    <!-- ==========Banner Section Ends Here========== -->
- <!-- ==========Contact Section Start Here========== -->
-   <!--  <div class="contact padding-tb block-address">
-        <div class="container">
-            <div class="section__header text-center">
-                <h5 style="color: #009636">NUESTROS CONTACTOS</h5>
-                <h2>Estamos Aquí Para Ayudarte</h2>
-            </div> 
-            <div class="section__wrapper">
-             <div class="row contacts-widget widget widget__sidebar justify-content-center g-4">
-                    <div class="col-lg-12">
-                        <ul class="contacts-info-list">
-                                        <li>
-                                            <i class="fa fa-map-marker"></i>
-                                            <div class="info-item">
-                                               Av. Arenales 2523 San Isidro
-                                            </div>
-                                        </li>
-                                        <br>
-                                        <li>
-                                            <i class="fa fa-phone"></i>
-                                            <div class="info-item">
-                                                +51 913 069 000
-                                            </div>
-                                        </li>
-                                        <br>
-                                        <li>
-                                            <i class="fa fa-envelope"></i>
-                                                <a href="mailto:info@kingtech.pe">info@kingtech.pe</a>
-                                            <span class="info-item">
-                                            </span>
-                                        </li>
-                                        
-                                      
-                                    </ul>
-                    </div>
-                  
-                </div> 
-            </div>
-        </div>
-    </div> -->
-    <!-- ==========Contact Section Ends Here========== -->
-    
-    <!-- ==========Contact Section Start Here========== -->
-    <div class="contact padding-tb none-address">
-        <div class="container">
-            <div class="section__header text-center">
-          <!--       <h5 style="color: #009636">NUESTROS CONTACTOS</h5>
-                <h2>Estamos Aquí Para Ayudarte</h2> -->
-            </div>
-            <div class="section__wrapper">
-                <div class="row justify-content-center g-4">
-                    <div class="col-lg-4 col-sm-6 col-12">
-                        <div class="contact__item">
-                            <div class="contact__icon">
-                                <img src="assets/images/contact/icon/01.png" alt="rajib raj">
-                            </div>
-                            <div class="contact__content">
-                                <h5>Dirección</h5>
-                                <p>Av. Arenales 2523 San Isidro</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-12">
-                        <div class="contact__item">
-                            <div class="contact__icon">
-                                <img src="assets/images/contact/icon/02.png" alt="rajib raj">
-                            </div>
-                            <div class="contact__content">
-                                <h5>Correo Electrónico</h5>
-                                <p>	Comunícate vía Email, te respondemos lo más pronto posible</p>
-                                <p><span>info@kingtech.pe</span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-12">
-                        <div class="contact__item">
-                            <div class="contact__icon">
-                                <img src="assets/images/contact/icon/03.png" alt="rajib raj">
-                            </div>
-                            <div class="contact__content">
-                                <h5>Número de teléfono</h5>
-                                <p>Conversa con uno de nuestros asesores totalmente gratis</p>
-                                <p><a href="tel:51913069000" title="Llámanos">+51 913 069 000</a></b></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ==========Contact Section Ends Here========== -->
+
+ 
 
     
     <!-- ==========Contact Section Start Here========== -->
@@ -171,8 +89,8 @@
                 <h2>¿Tiene Alguna Pregunta? No Dude En Ponerse En Contacto Con Nosotros.</h2>
             </div>
              <div class="row contacts-widget widget widget__sidebar justify-content-center g-4">
-                    <div class="col-lg-12">
-                        <ul class="contacts-info-list">
+                    <div class="col-lg-4">
+                        <ul class="contacts-info-list pad-10">
                                         <li>
                                             <i class="fa fa-map-marker"></i>
                                             <div class="info-item">
@@ -199,14 +117,17 @@
                                         
                                       
                                     </ul>
-                                    <br>
-                                    <br>
+                                  
                     </div>
-                  
-                </div>
-            <div class="section__wrapper">
+                    <div class="col-lg-8">  
+                     <div class="section__wrapper">
                 <form action="" id="contact-form" >
                     <div class="row g-4 justify-content-center">
+                        <div class="col-lg-6">   
+                        </div>
+                        <div class="col-lg-6">   
+                        </div>
+
                         <div class="col-md-6 col-12">
                             <input type="text" placeholder="Nombre*" name="name" id="name" >
                         </div>
@@ -237,7 +158,12 @@
                     </div>
                     <p class="form-message"></p>
                 </form>
-            </div>
+            </div> 
+                </div>
+                  
+                </div>
+
+       
         </div>
     </div>
     <!-- ==========Contact Section Ends Here========== -->
