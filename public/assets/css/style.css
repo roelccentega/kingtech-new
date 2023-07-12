@@ -2609,7 +2609,7 @@ input, textarea, select {
 }
 @media (max-width: 575px) {
   .header__bottom .area .logo {
-    max-width: 140px;
+    max-width: 210px;
   }
 }
 @media (min-width: 1200px) {
@@ -2720,14 +2720,14 @@ input, textarea, select {
   height: 100px;
   left: 0;
   top: -22px;
-  border-right: 1px solid rgba(52, 189, 107, 0.1);
+  border-right: 1px solid rgba(52, 189, 107, 0.5);
 }
 .header__bottom .area .menu .search_cart ul li:last-child::before {
   width: 1px;
   height: 100px;
   right: 0;
   top: -22px;
-  border-right: 1px solid rgba(52, 189, 107, 0.1);
+  border-right: 1px solid rgba(52, 189, 107, 0.5);
 }
 .header__bottom .area .menu .search_cart ul li span {
   top: 0px;
@@ -2993,6 +2993,7 @@ input, textarea, select {
   .header__bar {
     width: 15px;
     height: 16px;
+    padding-right: 35px;
   }
   .header__bar span {
     height: 2px;
@@ -3014,7 +3015,7 @@ input, textarea, select {
 }
 .header__ellepsis {
   font-size: 20px;
-  margin-left: 25px;
+
 }
 .header__ellepsis i {
   color: #fff;

@@ -127,7 +127,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="{{url('/contacto')}}" target="_blank" class="lab-btn bg-title"> Contacto</a>
+                            <a href="{{url('/contacto')}}" class="lab-btn bg-title"> Contacto</a>
                         </div>
                         <div class="header__bararea">
                             

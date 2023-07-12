@@ -58,12 +58,12 @@
                 <div class="col-lg-6 col-12">
                     <div class="about__thumb">
                         <div class="row g-4">
-                            <div class="col-12">
+                            <div class="col--lg12">
                                 <div class="about__img about__img--thumb">
-                                    <img src="{{asset('assets/render6.jpg')}}" alt="rajib raj" style="object-fit: cover; height: 250px">
+                                    <img src="{{asset('assets/portada.jpg')}}" alt="Sobre Nosotros Kingtech" >
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+                         <!--    <div class="col-md-6 col-12">
                                 <div class="about__img about__img--thumb">
                                     <img src="{{asset('assets/render3.jpg')}}" alt="rajib raj">
                                 </div>
@@ -76,7 +76,7 @@
                                         <h5><span>+5 Años </span> de experiencia</h5>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
