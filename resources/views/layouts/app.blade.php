@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/swiper.min.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/odometer.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/lightcase.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/style.css?v=5')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
 
     <title>Kingtech - Líder en Software de Apuestas Deportivas en Perú 🥇</title>
     <meta name="description" content="Empresa proveedor de Software Igaming, Apuestas Deportivas, Juegos Virtuales y Video Lotería para Casas y
@@ -83,6 +83,18 @@ Puntos de Apuestas en todo el Perú. " />
 #wpp-fix a + .form-wpp form .btn, #wpp-fix button + .form-wpp form .btn {
      float: none;
     padding-top: 12px;
+}
+
+@media(max-width: 768px)
+{
+  .cart__content a, .header--innerpage .header__ellepsis i, .header--three .header__ellepsis i, .header--two .header__top .info__content p, .header__bottom .area .menu .search_cart ul li span, .header__bottom .area .menu ul li a, .sidebar__calculate button, .sidebar__radiolist .form-check .formcheck span, .sidebar__author .content ul li a, .pricing__body ul li b, .pricing__body ul li i.fa-circle-xmark, .pricing__item:hover .pricing__head p, .pricing__item.active .pricing__head p, .wwd--two .wwd__content .accordion-item .accordion-collapse .accordion-body p, .testimonial__pagination span, .team--deatils .team__thumb--info ul li .right ul li a, .team--deatils .team__thumb--info ul li .left p, .team--two .team__content ul li a, .approach--four .section__header h2, .service--three .sertab__content p, .service--two .service__pagination span, .progressbararea li .title p, .about__content ul li h5, .banner--three .banner__pagination span, .banner--two .banner__content .lab_btn_group .lab-btn.bg-transparate, .banner--one .banner__social ul li a i, .filters-button-group .filter-btn, .text-btn, .pagination li .page-link {
+    color: #0B2239;
+   
+}
+.fa-circle-info:before, .fa-info-circle:before {
+    content: "\f05a";
+    display: none;
+}
 }
 </style>
 </head>

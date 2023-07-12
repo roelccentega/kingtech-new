@@ -203,7 +203,7 @@ a h6 {
 }
 
 .cart__content a, .header--innerpage .header__ellepsis i, .header--three .header__ellepsis i, .header--two .header__top .info__content p, .header__bottom .area .menu .search_cart ul li span, .header__bottom .area .menu ul li a, .sidebar__calculate button, .sidebar__radiolist .form-check .formcheck span, .sidebar__author .content ul li a, .pricing__body ul li b, .pricing__body ul li i.fa-circle-xmark, .pricing__item:hover .pricing__head p, .pricing__item.active .pricing__head p, .wwd--two .wwd__content .accordion-item .accordion-collapse .accordion-body p, .testimonial__pagination span, .team--deatils .team__thumb--info ul li .right ul li a, .team--deatils .team__thumb--info ul li .left p, .team--two .team__content ul li a, .approach--four .section__header h2, .service--three .sertab__content p, .service--two .service__pagination span, .progressbararea li .title p, .about__content ul li h5, .banner--three .banner__pagination span, .banner--two .banner__content .lab_btn_group .lab-btn.bg-transparate, .banner--one .banner__social ul li a i, .filters-button-group .filter-btn, .text-btn, .pagination li .page-link {
-  color: #0B2239;
+  color: #fff;
 }
 
 .header__bar span, .header--two .header__bottom, .faq .accordion-button.collapsed::after, .faq .accordion-button.collapsed::before, .faq .accordion-button.collapsed .accordion-icon, .pricing__head, .pricing__item:hover .pricing__body span.lab-btn, .pricing__item.active .pricing__body span.lab-btn, .wwd--one .wwd__content .accordion-item .accordion-header .accordion-button.collapsed, .testimonial--one .testimonial__content--count, .team--two .team__thumb::after, .team--two .team__item::after, .project--two, .project__icon:hover, .progressbararea li .progress, .about--three .about__img--content, .banner--one, .lab-btn:hover {
@@ -329,6 +329,7 @@ a h6 {
 
 .header__bottom .area .menu .search_cart, .project--details .project__info {
   margin-right: 30px;
+  padding-left: 30px
 }
 
 /* @@@@@@@@@@@@@  Extend Property padding 10 - 30 CSS Writing Now  @@@@@@@@@@@@@@ */
@@ -2903,7 +2904,7 @@ input, textarea, select {
   }
 }
 .header--three .header__bottom {
-  background: #fff;
+  background: #009636;
 }
 @media (min-width: 1200px) {
   .header--three .header__bottom::after, .header--three .header__bottom::before {
@@ -2911,7 +2912,7 @@ input, textarea, select {
   }
 }
 .header--three .header__bar span {
-  background: #0B2239;
+  background: #fff;
 }
 @media (min-width: 1200px) {
   .header--four {
@@ -3060,7 +3061,7 @@ input, textarea, select {
     right: 0;
     width: 10px;
     height: 2px;
-    background-color: #0B2239;
+    background-color: #fff;
   }
   .menu-item-has-children > a::before {
     position: absolute;
@@ -3069,7 +3070,7 @@ input, textarea, select {
     right: 4px;
     width: 2px;
     height: 10px;
-    background-color: #0B2239;
+    background-color: #fff;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -3665,8 +3666,8 @@ input, textarea, select {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: #0c6156;
-  border: 1px solid #0c6156;
+  background-color: #008169;
+  border: 1px solid #008169;
   text-transform: initial;
   cursor: pointer;
   padding: 12px 15px;
@@ -3752,7 +3753,7 @@ input, textarea, select {
 #wpp-fix button + .form-wpp .head-wpp {
   width: 100%;
   padding: 12px 8px;
-  background: #0c6156;
+  background: #008169;
   position: relative;
   display: flex;
   flex-wrap: wrap;

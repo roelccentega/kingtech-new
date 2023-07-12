@@ -40,13 +40,14 @@
             <div class="row justify-content-center align-items-center g-4">
                 <div class="col-lg-6 col-12">
                     <div class="about__content">
-                        <h5 style="color: #009636">Apuestas Deportivas</h5>
+                        <h5 style="color: #009636; font-size: 19px">"El mejor proveedor de Software De apuestas"
+                          </h5>
                         <h2>¿Quiénes somos?</h2>
-                        <p>	En nuestra trayectoria en el mercado, nos hemos convertido en una de las Empresas de Software de Apuestas que más ha apoyado e impulsado a cientos de emprendedores a montar su propia casa de apuestas deportivas en todo el Perú. Trabajando siempre con las mejores tecnologías y ofreciendo asesoramiento profesional a todos nuestros clientes.</p>
+                        <p>	En nuestra trayectoria en el mercado, nos hemos convertido en una de las Empresas de Software de Apuestas Deportivas que más ha apoyado e impulsado a miles de emprendedores a montar su propia casa de apuestas deportivas en todo el Perú. Trabajando siempre con las mejores tecnologías y ofreciendo asesoramiento profesional a todos nuestros clientes.</p>
 
-						<p>	Estamos comprometidos con el crecimiento de nuestros socios y clientes. Te acompañamos y apoyamos en todas las fases, desde la planificación, construcción e impulso y crecimiento de tu propio local de apuestas</p>
+						<p>	Estamos comprometidos con el crecimiento de nuestros socios y clientes. Te acompañamos y apoyamos en todas las fases, desde la planificación, construcción, impulso y crecimiento de tu propio local de apuestas</p>
 
-						<p>	¡No esperes más, conviértete en nuestro socio y comienza a ganar con un negocio rentable!</p>
+						<p>	<b> ¡No esperes más, conviértete en nuestro socio y comienza a ganar con un negocio rentable!  </b></p>
                         
                         <div class="lab_btn_group">
                             <a href="#" class="lab-btn bg-title">Contactarnos <i class="fa-solid fa-arrow-right"></i></a>

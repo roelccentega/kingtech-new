@@ -276,7 +276,7 @@
         <div class="container">
             <div class="counter__area">
                 <div class="row justify-content-center g-0">
-                    <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                   <!--  <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="counter__item">
                             <div class="counter__count">
                                 <h2 class="odometer" data-odometer-final="10000">0</h2>
@@ -285,8 +285,8 @@
                                 <h6><b>Clientes Felices</b></h6>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                    </div> -->
+                    <div class="col-lg-4 col-lg-offset-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="counter__item">
                             <div class="counter__count">
                                 <h2 class="odometer" data-odometer-final="+1500">0</h2>
@@ -296,7 +296,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                    <!-- <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="counter__item">
                             <div class="counter__count">
                                 <h2 class="odometer" data-odometer-final="200">0</h2>
@@ -305,8 +305,8 @@
                                 <h6><b>Partners</b></h6>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                    </div> -->
+                    <!-- <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="counter__item">
                             <div class="counter__count">
                                 <h2 class="odometer" data-odometer-final="59">0</h2>
@@ -315,12 +315,18 @@
                                 <h6><b>Campañas Exitosa</b></h6>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </div>
     <!-- ==========Counter Section Ends Here========== -->
+    <style type="text/css">
+        .textj:hover{
+            color: #0B2239
+
+        }
+    </style>
     
     <!-- ==========Project Section Start Here========== -->
     <div class="project padding-tb">
@@ -331,9 +337,9 @@
             </div>
             <div class="section__wrapper">
                 <ul class="filters-button-group d-flex flex-wrap justify-content-center wow fadeInUp" data-wow-delay=".5s">
-                    <li class="filter-btn is-checked" data-filter="*">Ver todos</li>
-                    <li class="filter-btn" data-filter=".financial">Tinbet</li>
-                    <li class="filter-btn" data-filter=".analyzing">BetGana</li>
+                    <li class="filter-btn is-checked textj" data-filter="*">Ver todos</li>
+                    <li class="filter-btn" data-filter=".financial" style="color:#0B2239">Tinbet</li>
+                    <li class="filter-btn" data-filter=".analyzing" style="color: #0B2239">BetGana</li>
                 </ul>
                 <div class="project__grid grid">
                     <div class="row justify-content-center g-4">

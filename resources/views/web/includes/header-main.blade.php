@@ -1,6 +1,6 @@
   <!-- ==========Header Section Starts Here========== -->
     <header class="header header--one header--three">
-        <div class="header__top">
+        <!-- <div class="header__top">
             <div class="container-fluid">
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-12">
@@ -31,11 +31,15 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <style type="">
             .img-logoh{
                     width: 150px
                 }  
+             .lab-btn:hover {
+                background-color: #0B2239 !important;
+               
+                }
             @media(max-width: 768px)
             {
                     .none-menu
@@ -53,28 +57,18 @@
                 <div class="area">
                     <div class="logo">
                         <a href="
-                        {{url('/')}}"><img src="{{asset('kingtech-oficial.png')}}" alt="logo" width="200px"></a>
+                        {{url('/')}}"><img src="{{asset('assets/king-blanco.png')}}" alt="logo" width="250px"></a>
                     </div>
                     <div class="main-menu">
                         <div class="menu">
                             <ul>
                                 <li>
-                                    <a href="{{url('/')}}" class="active">Inicio</a>
+                                    <!-- <a href="{{url('/')}}" class="active">Inicio</a> -->
                                     
                                 </li>
                                 <li>
-                                    <a href="#0">Nosotros</a>
-                                    <ul class="none-menu">
-                                        <li> <a href="{{url('/nosotros')}}">Nosotros</a></li>
-                                        <li>
-
-                                            <a href="#0">Eventos</a>
-                                            <ul>
-                                                <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show 2023</a></li>
-                                               <!--  <li><a href="{{url('/eventos/liga-powerade')}}">La Liga Powerade</a></li> -->
-                                            </ul>
-                                        </li>     
-                                    </ul>
+                                    <a href="{{url('/nosotros')}}">Nosotros</a>
+                                   
                                    
                                    
                                 </li>
@@ -111,7 +105,14 @@
                                     </ul>
                                 </li>
                              
-                                <li><a href="{{url('/contacto')}}">Contacto</a></li>
+                                <li>
+
+                                            <a href="#0">Noticias</a>
+                                            <ul>
+                                                <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show 2023</a></li>
+                                         
+                                            </ul>
+                                        </li> 
                             </ul>
                             <div class="search_cart d-none d-xl-block">
                                 <ul>
@@ -122,11 +123,11 @@
                                         
                                     </li>
                                     <li class="cart_icon" style="width: 88px">
-                                        <a href="https://www.facebook.com/sportbetperuoficial" target="_blank"><img src="{{asset('assets/facebook.png')}}" alt="Facebook en Tinbet" width="120px"></a>
+                                        <a href="https://www.facebook.com/KingtechCorporation" target="_blank"><img src="{{asset('assets/facebook.png')}}" alt="Facebook en Tinbet" width="120px"></a>
                                     </li>
                                 </ul>
                             </div>
-                            <a href="https://wa.me/51913069000" target="_blank" class="lab-btn"> WhatsApp<i class="fa-brands fa-whatsapp"></i></a>
+                            <a href="{{url('/contacto')}}" target="_blank" class="lab-btn bg-title"> Contacto</a>
                         </div>
                         <div class="header__bararea">
                             
