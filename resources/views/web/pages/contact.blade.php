@@ -35,6 +35,9 @@
      {
         padding-top:10px;
      }
+     .padding-tb {
+    padding-block: 40px;
+}
     }
     .contacts-widget .contacts-info-list > li {
     position: relative;
@@ -94,7 +97,11 @@
                                         <li>
                                             <i class="fa fa-map-marker"></i>
                                             <div class="info-item">
-                                               Av. Arenales 2523 San Isidro
+                                                <a href="https://www.google.com/maps/place/Av.+Gral.+Antonio+Alvarez+de+Arenales+2523,+Lince+15046/@-12.089371,-77.0348,17z/data=!4m6!3m5!1s0x9105c85e3889d159:0x8ac4fa1a74e7c08a!8m2!3d-12.0893706!4d-77.0347996!16s%2Fg%2F11ts_wfyv0?hl=es-419"  target="blank">
+                                                    
+                                                    Av. Arenales 2523 San Isidro     
+                                                </a>
+                                               
                                             </div>
                                         </li>
                                         <br>
