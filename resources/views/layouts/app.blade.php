@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/swiper.min.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/odometer.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/lightcase.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/style.css?v=4')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/style.css?v=5')}}">
 
     <title>Kingtech - Líder en Software de Apuestas Deportivas en Perú 🥇</title>
     <meta name="description" content="Empresa proveedor de Software Igaming, Apuestas Deportivas, Juegos Virtuales y Video Lotería para Casas y
@@ -59,6 +59,30 @@ Puntos de Apuestas en todo el Perú. " />
     padding-right: 0.5rem;
     color: #6c757d;
     content: var(--bs-breadcrumb-divider, "/");
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+     padding: 0; 
+     padding-left: 18%;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#wpp-fix a + .form-wpp form .btn, #wpp-fix button + .form-wpp form .btn {
+     float: none;
+    padding-top: 12px;
 }
 </style>
 </head>
@@ -105,7 +129,7 @@ Puntos de Apuestas en todo el Perú. " />
     </div>
 
     <div class="form-content">
-      <p class="bus-msg">Hola, para brindarte información me podrías facilitar tu nombre completo, número de DNI y teléfono 🤓</p>
+      <p class="bus-msg">Hola, para brindarte información me podrías facilitar tu nombre, e-mail y teléfono 📝</p>
 
       <div role="form" class="wpcf7" id="f196-o3" lang="pt-BR" dir="ltr">
         <div class="screen-reader-response">
@@ -117,15 +141,15 @@ Puntos de Apuestas en todo el Perú. " />
 
           <div class="campo">
           
-            <input type="text" name="name" id="name" size="40" placeholder="Nombre Completo" required>
+            <input type="text" name="name" id="name" size="40" placeholder="nombre" required>
           </div>
           <div class="campo">
           
-            <input type="text" name="dni" id="dni" size="40" placeholder="Correo Electrónico" required>
+            <input type="text" name="dni" id="dni" size="40" placeholder="e-mail" required>
           </div>
           <div class="campo">
           
-            <input type="text" name="id" id="id" size="40" placeholder="Telefono" required>
+            <input type="text" name="id" id="id" size="40" placeholder="teléfono" required>
           </div>
          
           <br>
@@ -134,7 +158,7 @@ Puntos de Apuestas en todo el Perú. " />
           </div>  
    
           <div class="btn whatsapp">
-            <input type="submit" id="submit2" value="Enviar a WhatsApp" class="form-control has-spinner submit">
+            <input type="submit" id="submit2" value="Ir a WhatsApp" class="form-control has-spinner submit">
 
             <span class="spinner"></span>
           </div>

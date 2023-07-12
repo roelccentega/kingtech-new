@@ -2903,7 +2903,7 @@ input, textarea, select {
   }
 }
 .header--three .header__bottom {
-  background: #EDF2F6;
+  background: #fff;
 }
 @media (min-width: 1200px) {
   .header--three .header__bottom::after, .header--three .header__bottom::before {
