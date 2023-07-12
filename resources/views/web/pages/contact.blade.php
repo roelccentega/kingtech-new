@@ -8,7 +8,9 @@
     .text-p{
             display: block;
         }
-     
+     .block-address{
+        display: none
+     }
     @media(max-width: 768px)
     {
      
@@ -19,6 +21,12 @@
         .text-p{
             display: none
         }
+        .none-address{
+            display: none;
+        }
+        .block-address{
+        display: block
+     }
     }
 
 </style>
@@ -42,7 +50,7 @@
 
     
     <!-- ==========Contact Section Start Here========== -->
-    <div class="contact padding-tb">
+    <div class="contact padding-tb none-address">
         <div class="container">
             <div class="section__header text-center">
                 <h5 style="color: #009636">NUESTROS CONTACTOS</h5>
@@ -136,7 +144,55 @@
         </div>
     </div>
     <!-- ==========Contact Section Ends Here========== -->
-
+ <!-- ==========Contact Section Start Here========== -->
+    <div class="contact padding-tb block-address">
+        <div class="container">
+            <div class="section__header text-center">
+                <h5 style="color: #009636">NUESTROS CONTACTOS</h5>
+                <h2>Estamos Aquí Para Ayudarte</h2>
+            </div>
+            <div class="section__wrapper">
+                <div class="row justify-content-center g-4">
+                    <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="contact__item">
+                            <div class="contact__icon">
+                                <img src="assets/images/contact/icon/01.png" alt="rajib raj">
+                            </div>
+                            <div class="contact__content">
+                                <h5>Dirección</h5>
+                                <p>Av. Arenales 2523 San Isidro</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="contact__item">
+                            <div class="contact__icon">
+                                <img src="assets/images/contact/icon/02.png" alt="rajib raj">
+                            </div>
+                            <div class="contact__content">
+                                <h5>Correo Electrónico</h5>
+                                <p> Comunícate vía Email, te respondemos lo más pronto posible</p>
+                                <p><span>info@kingtech.com</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="contact__item">
+                            <div class="contact__icon">
+                                <img src="assets/images/contact/icon/03.png" alt="rajib raj">
+                            </div>
+                            <div class="contact__content">
+                                <h5>Número de teléfono</h5>
+                                <p>Conversa con uno de nuestros asesores totalmente gratis</p>
+                                <p><a href="tel:51913069000" title="Llámanos">+51 913 069 000</a></b></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ==========Contact Section Ends Here========== -->
     
     <!-- ==========Google map Section Start Here========== -->
     <div class="map">

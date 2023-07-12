@@ -98,7 +98,8 @@ Puntos de Apuestas en todo el Perú. " />
   <div class="form-wpp">
 
     <div class="head-wpp">
-      <img src="{{asset('/assets/kingtech-atc.png')}}" loading="lazy" decoding="aync" width="50" height="50" class=" img-responsive wp-image-228" srcset="" sizes="(max-width: 50px) 100vw, 50px" alt="Imagem perfil">
+     <!--  <img src="{{asset('/assets/kingtech-atc.png')}}" loading="lazy"  width="50" height="50" class=" img-responsive 
+      "  alt="Imagem perfil" > -->
       <h3>Atención al Cliente</h3>
       <i class="fas fa-times" id="close-bt"></i>
     </div>
