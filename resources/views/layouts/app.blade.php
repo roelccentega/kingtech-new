@@ -31,8 +31,8 @@
 Puntos de Apuestas en todo el Perú. " />
     <meta name="keywords" content="Casas de apuestas, Software de apuestas, Apuestas Deportivas, Video loteria">
     <meta name="author" content="Kingtech" />
-  
-
+    <link rel="canonical" href="https://www.kingtech.pe"/>
+    
 
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('favicons/apple-icon-57x57.png')}}">
