@@ -114,7 +114,7 @@ Puntos de Apuestas en todo el Perú. " />
         <div class="search__area">
             <form action="#">
                 <input type="text" name="s" placeholder="Sarch Here...">
-                <button type="submit"><img src="{{asset('assets/images/header/icon/04.png')}}" alt="rajib raj"></button>
+                <button type="submit"><img src="{{asset('assets/images/header/icon/04.png')}}" alt="Kingtech - Líder en Software de Apuestas Deportivas en Perú " alt="Kingtech - Líder en Software de Apuestas Deportivas en Perú"></button>
             </form>
         </div>
     </div>
@@ -131,7 +131,7 @@ Puntos de Apuestas en todo el Perú. " />
   <button id="wpp-link" class="wpp-form wpp-link" data-href="https://api.whatsapp.com/send?text=Hola!&amp;phone=51965059553" data-wpp="51965059553">
 
     <span>Atención al Cliente</span>
-    <img src="{{asset('/assets/whatsapp.png')}}" class="whatsapp-images">
+    <img src="{{asset('/assets/whatsapp.png')}}" title="Escríbenos por WhatsApp" alt="Escríbenos por WhatsApp" class="whatsapp-images">
   </button>
 
   <div class="form-wpp">

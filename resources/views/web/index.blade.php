@@ -50,8 +50,8 @@
                                         <h5 class="text-c">#1 en perú</h5>
                                         <h2 style="color:#f4f4f4">Empresa líder de Software para Casa de Apuestas Deportivas en Perú</h2>
                                         <div class="lab_btn_group">
-                                            <a href="#" class="lab-btn">Explora Más<i class="fa-solid fa-arrow-right"></i></a>
-                                            <a href="#" class="lab-btn bg-title">Ponerse en Contacto <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="{{url('/nosotros')}}" title="Sobre Nosotros" class="lab-btn">Explora Más<i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="{{url('/contacto')}}" title="Ponerse en Contacto" class="lab-btn bg-title">Ponerse en Contacto <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -68,8 +68,8 @@
                                         <h5 class="text-c">#1 en perú</h5>
                                         <h2 style="color:#f4f4f4">Empresa líder de Software para Casa de Apuestas Deportivas en Perú</h2>
                                         <div class="lab_btn_group">
-                                            <a href="{{url('/nosotros')}}" class="lab-btn">Explora Más <i class="fa-solid fa-arrow-right"></i></a>
-                                            <a href="{{url('/contacto')}}" class="lab-btn bg-title">Ponerse en Contacto <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="{{url('/nosotros')}}" title="Sobre Nosotros" class="lab-btn">Explora Más <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="{{url('/contacto')}}" title="Ponerse en Contacto" class="lab-btn bg-title">Ponerse en Contacto <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -91,12 +91,12 @@
                 <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="feature__item text-center">
                         <div class="feature__thumb">
-                            <img src="assets/copa-o.png" alt="rajib raj" width="90px">
+                            <img src="assets/copa-o.png" alt="Apuestas Deportivas" title="Apuestas Deportivas" width="90px">
                         </div>
                         <div class="feature__content">
-                            <h5><a href="#">Apuestas Deportivas</a></h5>
+                            <h5>Apuestas Deportivas</h5>
                             <p>Combinamos el diseño interactivo del interfaz con integraciones modernas que permitirá a sus clientes vivir una experiencia única.</p>
-                            <a href="#" class="text-btn">Ponerse en contacto <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="{{url('/contacto')}}" class="text-btn" title="Contacto con Kingtech">Ponerse en contacto <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -106,9 +106,9 @@
                             <img src="assets/bingo-o.png" alt="rajib raj" width="90px">
                         </div>
                         <div class="feature__content">
-                            <h5><a href="#">Bingo en Vivo</a></h5>
+                            <h5>Bingo en Vivo</h5>
                             <p>Aperturar una máquina de VLT es un complemento altamente atractivo para ofrecer a los jugadores. Aumenta la rentabilidad de tu negocio con nuestros sistemas de Videolotería.</p>
-                            <a href="#" class="text-btn">Ponerse en contacto <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="{{url('/contacto')}}" class="text-btn" title="Contacto con Kingtech">Ponerse en contacto <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -118,15 +118,15 @@
                             <img src="assets/juegos-o.png" alt="rajib raj" width="90px">
                         </div>
                         <div class="feature__content">
-                            <h5><a href="#">Juegos Virtuales</a></h5>
+                            <h5>Juegos Virtuales</h5>
                             <p>El software de deportes virtuales ampliará las capacidades de su tienda de apuestas. Con una gama de juegos en alta resolución como Caballos, Football, Ruleta y más.</p>
-                            <a href="#" class="text-btn">Ponerse en contacto <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="{{url('/contacto')}}" class="text-btn" title="Contacto con Kingtech">Ponerse en contacto <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="text-center mt-5 wow fadeInUp" data-wow-delay=".5s">
-                <p>Inicia tu propio negocio de apuestas con nosotros. <a href="https://wa.me/51983446479" target="_blank" class="theme-color" style="font-size: 20px"><b>¡Comunicate con nuestros asesores!</b></a></p>
+                <p>Inicia tu propio negocio de apuestas con nosotros <a href="https://wa.me/51983446479" title="Inicia tu propio negocio de apuestas con nosotros" target="_blank" class="theme-color" style="font-size: 20px"><b>¡Comunicate con nuestros asesores!</b></a></p>
             </div>
         </div>
     </div>
@@ -162,7 +162,7 @@
 										}                        
 									</style>
                                 <div class="about__img about__img--thumb">
-                                    <img src="{{asset('assets/quienes-somos-a.png')}}" alt="rajib raj">
+                                    <img src="{{asset('assets/quienes-somos-a.png')}}" alt="Quienes Somos - Kingtech" title="Quienes Somos - Kingtech">
                                     <div class="abs__thumb">
                                         <!-- <img src="assets/D6.png" alt="rajib raj" style=""> -->
                                     </div>
@@ -183,8 +183,8 @@
 						<p>¡No esperes más, conviértete en nuestro socio y comienza a ganar con un negocio rentable!</p>
                         
                         <div class="lab_btn_group">
-                            <a href="{{url('/contacto')}}" class="lab-btn">Contáctanos<i class="fa-solid fa-arrow-right"></i></a>
-                            <a href="{{url('/nosotros')}}" class="lab-btn bg-title">Ver más <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="{{url('/contacto')}}" title="Contáctanos" class="lab-btn">Contáctanos<i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="{{url('/nosotros')}}" class="lab-btn bg-title" title="Sobrew Nosotros">Ver más <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -207,10 +207,10 @@
                             <div class="service__item">
                                 <div class="service__front text-center">
                                     <div class="service__icon">
-                                        <img src="assets/tinbet.png" alt="rajib raj">
+                                        <img src="assets/tinbet.png" alt="Tinbet Apuestas Deportivas" title="Tinbet Apuestas Deportivas">
                                     </div>
                                     <div class="service__content">
-                                        <h5><a href="{{url('/tinbet')}}">Tinbet</a></h5>
+                                        <h5><a href="{{url('/tinbet')}}" title="Tinbet Apuestas Deportivas">Tinbet</a></h5>
                                         <p>Nuestra tecnología desarrollada para la terminal combina
                                     una interfaz atractiva y moderna, fácil de usar y grandes probabilidades en tiempo
                                     real hasta el último segundo. Los usuarios pueden seleccionar cualquier apuesta en
@@ -218,8 +218,8 @@
                                     </div>
                                 </div>
                                 <div class="service__back">
-                                    <img src="{{asset('assets/imagen-transparent.png')}}" alt="rajib raj">
-                                    <a href="#" class="lab-btn">Ver más<i class="fa-solid fa-arrow-right"></i></a>
+                                    <img src="{{asset('assets/imagen-transparent.png')}}" alt="Tinbet Apuestas Deportivas">
+                                    <a href="{{url('/tinbet')}}" class="lab-btn" title="Ver landing de Tinbet Apuestas Deportivas">Ver más<i class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -227,10 +227,10 @@
                             <div class="service__item">
                                 <div class="service__front text-center">
                                     <div class="service__icon">
-                                        <img src="assets/betgana.png" alt="rajib raj">
+                                        <img src="assets/betgana.png" alt="BetGana" title="BetGana">
                                     </div>
                                     <div class="service__content">
-                                        <h5><a href="{{url('/betgana')}}">BetGana</a></h5>
+                                        <h5><a href="{{url('/betgana')}}" title="Betgana Apuestas Deportivas">BetGana</a></h5>
                                         <p>La potente terminal de Betgana integra un sistema
                                     multilenguaje, una amplia gama de eventos deportivos, estadísticas en tiempo real,
                                     además presenta una interfaz atractiva que logrará causar una experiencia de usuario
@@ -238,8 +238,8 @@
                                     </div>
                                 </div>
                                 <div class="service__back">
-                                    <img src="{{asset('assets/imagen-transparent.png')}}" alt="rajib raj">
-                                    <a href="#" class="lab-btn">Ver más <i class="fa-solid fa-arrow-right"></i></a>
+                                    <img src="{{asset('assets/imagen-transparent.png')}}" alt="Betgana Apuestas Deportivas" title="Betgana Apuestas Deportivas">
+                                    <a href="{{url('/betgana')}}" title="Ver Landing de Betgana Apuestas Deportivas" class="lab-btn">Ver más <i class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -247,16 +247,16 @@
                             <div class="service__item">
                                 <div class="service__front text-center">
                                     <div class="service__icon">
-                                        <img src="assets/bet-gana-race.png" alt="rajib raj">
+                                        <img src="assets/bet-gana-race.png" alt="Bet Gana Race" title="Bet Gana Race">
                                     </div>
                                     <div class="service__content">
-                                        <h5><a href="{{url('/betganarace')}}">Bet Gana Race</a></h5>
+                                        <h5><a href="{{url('/betganarace')}}" title="Bet Gana Race">Bet Gana Race</a></h5>
                                         <p>Nuestra plataforma esta diseñada para que puedas usarlo desde cualquier dispositivo, podrás hacer tus pronósticos, descargar la programación de carreras ,ver las jornadas, ver los resultados de todas las carreras y disfrutar de los videos en vivo haciendo tu apuesta.</p>
                                     </div>
                                 </div>
                                 <div class="service__back">
-                                    <img src="{{asset('assets/imagen-transparent.png')}}" alt="rajib raj">
-                                    <a href="#" class="lab-btn">Ver más <i class="fa-solid fa-arrow-right"></i></a>
+                                    <img src="{{asset('assets/imagen-transparent.png')}}" alt="Bet Gane Race" title="Bet Gane Race">
+                                    <a href="{{url('/betganarace')}}" title="Bet Gana Race" class="lab-btn">Ver más <i class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -346,7 +346,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 financial wow fadeInUp" data-wow-delay=".5s">
                             <div class="project__item">
                                 <div class="project__thumb">
-                                    <img src="assets/render1.jpg" alt="rajib raj">
+                                    <img src="assets/render1.jpg" alt="Diseños Renderizados Tinbet - Franquicias" title="Diseños Renderizados Tinbet - Franquicias">
                                 </div>
                                 <div class="project__content">
                                     <h5 style="color: #009636">Vista Isométrica 1</h5>
@@ -360,7 +360,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 analyzing marketing wow fadeInUp" data-wow-delay=".5s">
                             <div class="project__item">
                                 <div class="project__thumb">
-                                    <img src="assets/render2.jpg" alt="rajib raj">
+                                    <img src="assets/render2.jpg" alt="Diseños Renderizados Tinbet - Franquicias" title="Diseños Renderizados Tinbet - Franquicias">
                                 </div>
                                 <div class="project__content">
                                     <h5 style="color: #009636">Vista Isométrica 2</h5>
@@ -374,7 +374,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 marketing business wow fadeInUp" data-wow-delay=".5s">
                             <div class="project__item">
                                 <div class="project__thumb">
-                                    <img src="assets/render3.jpg" alt="rajib raj">
+                                    <img src="assets/render3.jpg" alt="Diseños Renderizados Tinbet - Franquicias" title="Diseños Renderizados Tinbet - Franquicias">
                                 </div>
                                 <div class="project__content">
                                     <h5 style="color: #009636">Vista Interior de Zona de Apuestas</h5>
@@ -388,7 +388,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 analyzing wow fadeInUp" data-wow-delay=".5s">
                             <div class="project__item">
                                 <div class="project__thumb">
-                                    <img src="assets/render4.jpg" alt="rajib raj">
+                                    <img src="assets/render4.jpg" alt="Diseños Renderizados Tinbet - Franquicias" title="Diseños Renderizados Tinbet - Franquicias">
                                 </div>
                                 <div class="project__content">
                                     <h5 style="color: #009636">Vista Interior de Zona de Apuestas 2</h5>
@@ -402,7 +402,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 business wow fadeInUp" data-wow-delay=".5s">
                             <div class="project__item">
                                 <div class="project__thumb">
-                                    <img src="assets/render5.jpg" alt="rajib raj">
+                                    <img src="assets/render5.jpg" alt="Diseños Renderizados Tinbet - Franquicias" title="Diseños Renderizados Tinbet - Franquicias">
                                 </div>
                                 <div class="project__content">
                                     <h5 style="color: #009636">Vista Interior de Caja</h5>
@@ -416,7 +416,7 @@
                         <div class="col-lg-4 col-sm-6 col-12 financial wow fadeInUp" data-wow-delay=".5s">
                             <div class="project__item">
                                 <div class="project__thumb">
-                                    <img src="assets/render6.jpg" alt="rajib raj">
+                                    <img src="assets/render6.jpg" alt="Diseños Renderizados Tinbet - Franquicias" title="Diseños Renderizados Tinbet - Franquicias">
                                 </div>
                                 <div class="project__content">
                                     <h5 style="color: #009636">Vista Interior de Espectadores</h5>
@@ -430,7 +430,7 @@
                     </div>
                 </div>
                 <div class="text-center mt-5 wow fadeInUp" data-wow-delay=".5s">
-                    <a href="{{url('/punto-de-apuestas')}}" class="lab-btn bg-title">Ver puntos de apuestas<i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="{{url('/punto-de-apuestas')}}" class="lab-btn bg-title" title="Puntos de Apuestas en Tinbet">Ver puntos de apuestas<i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
@@ -595,7 +595,7 @@
                         <div class="row g-4">
                             <div class="col-12">
                                 <div class="about__img about__img--thumb">
-                                    <img src="{{asset('assets/socios.png')}}" alt="rajib raj">
+                                    <img src="{{asset('assets/socios.png')}}" alt="Conviértete en nuestro socio y emprende en un negocio rentable" title="Conviértete en nuestro socio y emprende en un negocio rentable">
                                    
                                 </div>
                             </div>
@@ -638,13 +638,13 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="blog__item">
                             <div class="blog__thumb">
-                                <a href="#">
-                                	<img src="{{asset('assets/nos-reunimos-b.png')}}" alt="rajib raj" width="270px">
-                                </a>
+                              
+                                	<img src="{{asset('assets/nos-reunimos-b.png')}}" alt="Nos reunimos con Tinbet" title="Nos reunimos con Tinbet" width="270px">
+                              
                             </div>
                             <div class="blog__content">
                                 
-                                <h5><a href="#">Nos reunimos</a></h5>
+                                <h5>Nos reunimos</h5>
                                 <p>Resuelve tus dudas desde el primer día. Nuestros asesores lo harán posible. ¡El primer contacto es importante!</p>
                             </div>
                         </div>
@@ -652,7 +652,7 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="blog__item">
                             <div class="blog__thumb">
-                                <a href="#"><img src="{{asset('assets/icono-te-impulsamos.png')}}" alt="rajib raj" width="270px"></a>
+                                <a href="#"><img src="{{asset('assets/icono-te-impulsamos.png')}}" alt="Te impulsamos con Tinbet" title="Te impulsamos con Tinbet" width="270px"></a>
                             </div>
                             <div class="blog__content">
                                 
