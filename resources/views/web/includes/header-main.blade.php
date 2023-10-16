@@ -109,7 +109,9 @@
 
                                             <a href="#0">Noticias</a>
                                             <ul>
+                                                 <li><a href="{{url('/eventos/expo-amazonica-tingo-maria-2023')}}">Expo Amázonica Tingo Maria 2023</a></li>
                                                 <li><a href="{{url('/eventos/peru-gaming-show')}}">Perú Gaming Show 2023</a></li>
+
                                          
                                             </ul>
                                         </li> 

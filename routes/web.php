@@ -38,3 +38,5 @@ Route::get('/terminos-y-condiciones','HomeBetsController@terms');
 //Events
 
 Route::get('/eventos/peru-gaming-show', 'GeneralController@peruGaming');
+
+Route::get('/eventos/expo-amazonica-tingo-maria-2023', 'GeneralController@exporFeria');

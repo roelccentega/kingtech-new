@@ -39,5 +39,9 @@ class GeneralController extends Controller
     {
         return view('web.events.peru-gaming');
     }
+     public function exporFeria()
+    {
+        return view('web.events.expo-feria');
+    }
     
 }

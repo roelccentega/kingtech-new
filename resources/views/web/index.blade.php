@@ -626,7 +626,7 @@
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
                
-                <h2>Como trabajamos...</h2>
+                <h2>Cómo trabajamos...</h2>
                 <p>	En <b>Sportbetperú</b> estamos comprometidos con nuestros socios, por lo que no estarás solo, te apoyamos en la planificación, construcción y crecimiento de tu negocio.</p>
             </div>
             <style type="text/css">
@@ -638,8 +638,11 @@
                     <div class="col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="blog__item">
                             <div class="blog__thumb">
+                                <a href="#">
+                                    <img src="{{asset('assets/nos-reunimos-b.png')}}" alt="Nos reunimos con Tinbet" title="Nos reunimos con Tinbet" width="270px">
+                                </a>
                               
-                                	<img src="{{asset('assets/nos-reunimos-b.png')}}" alt="Nos reunimos con Tinbet" title="Nos reunimos con Tinbet" width="270px">
+                                	
                               
                             </div>
                             <div class="blog__content">
