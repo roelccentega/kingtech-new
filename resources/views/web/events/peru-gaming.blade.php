@@ -75,7 +75,7 @@
           
                  <div class="col-lg-12">
                     <video class="width-query" controls autoplay loop>
-                        <source src="{{asset('PGS-kingtech-2023.mp4')}}" type="video/mp4">
+                        <source src="https://tinbet.la/eventos/pgs-kingtech2023.mp4" type="video/mp4">
                    </video>   
                  </div>
                   

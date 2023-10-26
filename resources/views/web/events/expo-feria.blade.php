@@ -88,7 +88,7 @@
             <div class="section__wrapper">
    <div class="col-lg-12 none-desktop">
                     <video class="width-query" controls autoplay loop poster="{{asset('assets/expo.png')}}">
-                        <source src="{{asset('assets/EXPOAMAZOINCA-TINBET-RESUMEN.mp4')}}" type="video/mp4">
+                        <source src="https://tinbet.la/eventos/EXPOAMAZOINCA-TINBET-RESUMEN.mp4" type="video/mp4">
                    </video>   
                  </div>
                  <br>  
